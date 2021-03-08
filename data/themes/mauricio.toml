@@ -1,0 +1,18 @@
+# Theme metadata
+name = "mauricio"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2369bd"
+
+# Menu
+menu_primary = "#222222"
+menu_text = "#d2e4e2"
+menu_text_active = "#ffffff"
+menu_title = "#d2e4e2"
+
+# Home sections
+home_section_odd = ""
+home_section_even = "rgb(247, 247, 247)"

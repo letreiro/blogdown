@@ -1,0 +1,191 @@
+---
+title: Fonte de dados geoespaciais
+author: mauriciovancine
+date: "2021-07-20"
+slug: []
+categories: [spatial,rspatial]
+tags: [spatial,rspatial]
+subtitle: ""
+summary: "Uma listagem de fonte de dados geoespaciais"
+authors: []
+lastmod: r`Sys.time()`
+featured: no
+image:
+  caption: "[Imagem de Andrew Neel](https://unsplash.com/photos/1-29wyvvLJA)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(knitr)
+```
+
+## Contextualização
+
+
+## Fonte de dados geoespaciais
+
+Existe diversas fontes de dados geográficos em diferentes bases de dados disponíveis gratuitamente. Geralmente essas bases de dados são disponibilizadas separadamente em apenas dados vetoriais e dados raster. Para **dados vetoriais**, grande parte dos dados disponibilizados são utilizados em mapas como limites políticos, limites de biomas ou distribuição de espécies para **polígonos**; estradas e rios para **dados lineares**, ou ainda pontos de ocorrência de espécies ou comunidades, ou medidas tomadas em campo sobre condições naturais como clima ou relevo, como **pontos**. Entretanto, é sempre recomendado o uso de **bases oficiais**, principalmente em relação a dados vetoriais de **limites políticos**. Para tanto, é fundamental buscar as **bases oficiais de cada país**, entrentanto, há bases que podem ser utilizadas globalmente, como veremos.
+
+Sobre as **bases de dados raster**, há uma infinidade de dados para diferentes objetivos, mas grande parte deles são relativos à condições ambientais, representando uma variável de interesse de forma contínua no espaço, como temperatura, precipitação, elevação, etc.
+
+Há uma compilação de dados geográficos vetoriais e raster feita por Marcus Vinícius Alves de Carvalho e Angelica Carvalho Di Maio, chamada [GeoLISTA](http://www.clickgeo.com.br/wp-content/uploads/2018/05/GeoLISTA.pdf). Entretanto, como as bases de dados tendem à ser muito dinâmicas, é possível que muitas bases tenham surgido e desaparecido desde a listagem realizada.
+
+Além das bases de dados, há pacotes específicos no R que fazem o download de dados vetoriais e rasters, facilitando a aquisição e reprodutibilidade. Para conferir uma listagem completa de pacotes para diversas análises espaciais, veja [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html).
+
+### Vetor
+
+Dentre as bases vetoriais, destacamos as seguintes na Tabela \@ref(tab:tab-vetor-bases):
+
+```{r tab-vetor-bases, echo=FALSE}
+kable(
+  tibble(
+    `Bases de dados` = c("[IBGE](https://www.ibge.gov.br/geociencias/downloads-geociencias.html)",
+                         "[FBDS](http://geo.fbds.org.br/)",
+                         "[GeoBank](http://geosgb.cprm.gov.br/)",
+                         "[Pastagem.org](http://maps.lapig.iesa.ufg.br)",
+                         "[CanaSat](http://www.dsr.inpe.br/laf/canasat/)",
+                         "[CSR Maps](http://maps.csr.ufmg.br)",
+                         "[Ecoregions](https://ecoregions2017.appspot.com/)",
+                         "[UN Biodiversity Lab](https://www.unbiodiversitylab.org/)",
+                         "[Biodiversity Hotspots](https://zenodo.org/record/3261807#.YA8lpPv0nOY)",
+                         "[IUCN Red List of Threatened Species](https://www.iucnredlist.org/resources/spatial-data-download)",
+                         "[Map of Life (MOL)](https://mol.org/)",
+                         "[Key Biodiversity Areas](http://www.keybiodiversityareas.org/kba-data/request)",
+                         "[HydroSHEDS](https://www.hydrosheds.org/)",
+                         "[Global Roads Inventory Project (GRIP)](https://www.globio.info/download-grip-dataset)",
+                         "[Database of Global Administrative Areas (GADM)](https://gadm.org/)",
+                         "[Natural Earth](https://www.naturaleatoriorthdata.com/)",
+                         "[Protected Planet](https://www.protectedplanet.net)", 
+                         "[Global Biological Information Facility (GBIF)](http://www.gbif.org)",
+                         "[Species Link](http://www.splink.cria.org.br)",
+                         "[Global Invasive Species Information Network (GISIN)](http://www.gisin.org)"),
+    Descrição = c("Limites territoriais e censitários do Brasil", 
+                  "Uso da terra, APP e hidrografia - Mata Atlântica e Cerrado", 
+                  "Dados geológicos do Brasil",
+                  "Dados de pastagens e gado para o Brasil",
+                  "Dados de cana-de-açúcar para o Brasil",
+                  "Diversos dados vetoriais e raster para o Brasil",
+                  "Dados de biorregiões e biomas do mundo",
+                  "Diversas bases de dados para o mundo",
+                  "Dados dos limites dos Hotspots de Biodiversidade",
+                  "Dados dos limites das distribuições das espécies para o mundo",
+                  "Dados da distribuição de espécies e outros dados para o mundo",
+                  "Dados dos limites das Key Biodiversity Areas",
+                  "Informações hidrológicas do mundo",
+                  "Dados de estradas do mundo todo",
+                  "Limites de áreas administrativas do mundo",
+                  "Diversos limites para o mundo",
+                  "Limites de áreas protegidas para o mundo",
+                  "Dados de ocorrências de espécies para o mundo",
+                  "Dados de ocorrências de espécies para o Brasil",
+                  "Dados de ocorrências de espécies invasoras para o Mundo")
+  ), 
+  caption = "Principais bases de dados vetoriais para o Brasil e o Mundo.",
+  booktabs = TRUE)
+```
+
+### Raster
+
+Dentre as bases raster, destacamos as seguintes na Tabela \@ref(tab:tab-raster-bases):
+
+```{r tab-raster-bases, echo=FALSE}
+kable(
+  tibble(
+    `Bases de dados` = c("[MapBiomas](https://mapbiomas.org/)",
+                         "[Bahlu](ftp://madeira.dea.ufv.br/bdados/bhalu/)",
+                         "[USGS](https://www.usgs.gov/)",
+                         "[SRTM](http://srtm.csi.cgiar.org/)",
+                         "[Geoservice Maps](https://geoservice.dlr.de/web/maps)",
+                         "[Global Forest Watch](https://www.globalforestwatch.org/)",
+                         "[GlobCover](http://due.esrin.esa.int/page_globcover.php)",
+                         "[Landcover](https://www.earthenv.org/landcover)",
+                         "[Global Human Footprint](https://wcshumanfootprint.org/)",
+                         "[GHSL - Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/download.php)",
+                         "[Land-Use Harmonization (LUH2)](https://luh.umd.edu/)",
+                         "[ESA Climate Change Initiative](https://climate.esa.int/en/odp/#/dashboard)",
+                         "[WorldClim](https://www.worldclim.org/)",
+                         "[CHELSA](https://chelsa-climate.org/)",
+                         "[EarthEnv](https://www.earthenv.org/)",
+                         "[SoilGrids](https://soilgrids.org/)",
+                         "[Global Wetlands](https://www2.cifor.org/global-wetlands/)",
+                         "[Global Surface Water Explorer](https://global-surface-water.appspot.com/#)",
+                         "[MARSPEC](http://www.marspec.org/)",
+                         "[Bio-ORACLE](http://www.oracle.ugent.be/)"), 
+    Descrição = c("Uso e cobertura da terra para o Brasil, Panamazonia Legal e Chaco, de 1985 a 2019", 
+                  "Distribuições históricas de terras agrícolas e pastagens para todo o Brasil de 1940 a 2012", 
+                  "Dados de diversos satélites livres para o mundo",
+                  "Dados de elevação para o mundo",
+                  "Dados de elevação e florestas para o mundo",
+                  "Dados de florestas para o mundo",
+                  "Dados de uso e cobertura da terra para todo o planeta",
+                  "Dados de uso e cobertura da terra para todo o planeta",
+                  "Dados de pegada ecológica para o mundo",
+                  "Dados e ferramentas abertos e gratuitos para avaliar a presença humana no planeta",
+                  "Dados atuais e previsões de uso da terra",
+                  "Arquivos globais de observação da Terra nos últimos 30 anos da Agência Espacial Europeia (ESA)",
+                  "Dados climáticos para o mundo",
+                  "Dados climáticos para o mundo",
+                  "Dados de cobertura da terra, nuvens, relevo e hidrografia",
+                  "Dados de solo para o mundo",
+                  "Dados de áreas úmidas para o mundo",
+                  "Dados de águas superficiais para o mundo",
+                  "Dados de condições do oceano para o mundo",
+                  "Dados de condições do oceano para o mundo")), 
+  caption = "Principais bases de dados raster para o Brasil e o Mundo.",
+  booktabs = TRUE
+)
+```
+
+### Pacotes do R
+
+Dentre os pacotes no R para download de dados geográficos, destacamos os seguintes na Tabela \@ref(tab:tab-packages-bases):
+
+```{r tab-packages-bases, echo=FALSE}
+kable(
+  tibble(
+    Pacotes = c("[geobr](https://cran.r-project.org/web/packages/geobr/index.html)",
+                "[rnaturalearth](https://cran.r-project.org/web/packages/rnaturalearth/index.html)",
+                "[rworldmap](https://cran.r-project.org/web/packages/rworldmap/index.html)",
+                "[spData](https://cran.r-project.org/web/packages/spData/index.html)",
+                "[OpenStreetMap](https://cran.r-project.org/web/packages/OpenStreetMap/index.html)",
+                "[osmdata](https://cran.r-project.org/web/packages/osmdata/index.html)",
+                "[geonames](https://cran.r-project.org/web/packages/geonames/index.html)",
+                "[rgbif](https://cran.r-project.org/web/packages/rgbif/index.html)",
+                "[maptools](https://cran.r-project.org/web/packages/maptools/index.html)",
+                "[marmap](https://cran.r-project.org/web/packages/marmap/index.html)",
+                "[oce](https://cran.r-project.org/web/packages/oce/index.html)",
+                "[envirem](https://cran.r-project.org/web/packages/envirem/index.html)",
+                "[sdmpredictors](https://cran.r-project.org/web/packages/sdmpredictors/index.html)",
+                "[metScanR](https://cran.r-project.org/web/packages/metScanR/index.html)",
+                "[ClimDown](https://cran.r-project.org/web/packages/ClimDown/index.html)",
+                "[rWBclimate](https://cran.r-project.org/web/packages/rWBclimate/index.html)",
+                "[rnoaa](https://cran.r-project.org/web/packages/rnoaa/index.html)",
+                "[RNCEP](https://cran.r-project.org/web/packages/RNCEP/index.html)",
+                "[smapr](https://cran.r-project.org/web/packages/smapr/index.html)"), 
+    Descrição = c("Carrega Shapefiles de Conjuntos de Dados Espaciais Oficiais do Brasil", 
+                  "Dados do mapa mundial da Natural Earth", 
+                  "Mapeando Dados Globais",
+                  "Conjuntos de dados para análise espacial",
+                  "Acesso para abrir imagens raster de mapas de ruas",
+                  "Baixe e importe dados do OpenStreetMap",
+                  "Interface para o serviço da Web de consulta espacial 'Geonames'",
+                  "Interface para o Global 'Biodiversity' Information Facility API",
+                  "Ferramentas para lidar com objetos espaciais",
+                  "Importar, traçar e analisar dados batimétricos e topográficos",
+                  "Fonte e processamento de dados oceanográficos",
+                  "Geração de Variáveis ENVIREM",
+                  "Conjuntos de dados preditor de modelagem de distribuição de espécies",
+                  "Encontre, Mapeie e Colete Dados e Metadados Ambientais",
+                  "Biblioteca de redução de escala do clima para a produção diária do modelo climático",
+                  "Acessa dados climáticos do Banco Mundial",
+                  "Dados meteorológicos 'NOAA' de R",
+                  "Obtenha, organize e visualize dados meteorológicos NCEP",
+                  "Aquisição e processamento de dados ativos-passivos (SMAP) de umidade do solo da NASA")
+  ), 
+  caption = "Principais pacotes no R para download de dados vetoriais e raster.",
+  booktabs = TRUE)
+``` 

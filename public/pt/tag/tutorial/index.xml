@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial | Maurício Vancine</title>
+    <link>https://mauriciovancine.github.io/pt/tag/tutorial/</link>
+      <atom:link href="https://mauriciovancine.github.io/pt/tag/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <description>tutorial</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Maurício Vancine 2021</copyright><lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>tutorial</title>
+      <link>https://mauriciovancine.github.io/pt/tag/tutorial/</link>
+    </image>
+    
+    <item>
+      <title>Disciplinas de graduação e pós-graduação on-line</title>
+      <link>https://mauriciovancine.github.io/pt/post/general-courses-online/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/post/general-courses-online/</guid>
+      <description>&lt;h2 id=&#34;contextualização&#34;&gt;Contextualização&lt;/h2&gt;
+&lt;p&gt;A pandemia de COVID-19 iniciou-se com o primeiro caso no Brasil no dia &lt;strong&gt;26 de fevereiro de 2020&lt;/strong&gt;. Desde de então, acredito que todo professor(a), seja ele(a) de qualquer nível, do maternal a pós-graduação, se viu em meio à necessidade de &lt;strong&gt;ministrar aulas remotamente&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Ano passado tive o prazer de oferecer duas disciplinas remotamente: uma na graduação em Ecologia (&amp;ldquo;Modelos Estatísticos em Ecologia&amp;rdquo;) e outra na Pós-Graduação em Ecologia, Evolução e Biodiversidade (&lt;a href=&#34;https://mauriciovancine.github.io/pt/courses/course-geospatial-analisys-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Introdução ao uso de dados geoespaciais no R&amp;rdquo;&lt;/a&gt;), ambas na UNESP-Rio Claro. A UNESP fez um plano emergencial de adotar todas as ferramentas do &lt;a href=&#34;https://classroom.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Classroom&lt;/a&gt;, como acredito que grande parte das universidades e escolas adotaram.&lt;/p&gt;
+&lt;p&gt;Infelizmente, apesar de eu ter gravado ambas para repassar aos alunos, não pensei como seria uma oportunidade fantástica para manter esse material permanente e disponível à qualquer pessoa no YouTube, pode exemplo. Para isso, eu teria de editar horas e mais horas de vídeos, e não disponho desse tempo para isso, não pelo menos agora&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Entretanto, desde o início do ano passado, comecei a fazer parte do canal no YouTube &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoCast Brasil&lt;/a&gt;. Eu e o &lt;a href=&#34;https://felipesbarros.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Felipe Sodré Mendes Barros&lt;/a&gt; fizemos diversas lives de R focando na parte espacial, &lt;a href=&#34;https://mauriciovancine.github.io/pt/video/werlive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;We R Live&lt;/a&gt;, com vários convidados e convidadas muito legais. Esse ano está complicado de retomarmos por conta de vários projetos, doutorado e trabalho&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Desse projeto nasceu um resumo muito legal que publicamos no &lt;a href=&#34;https://inde.gov.br/simposio-12-anos/sbide-home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;II Simpósio Brasileiro de Infraestrutura de Dados Espaciais - SBIDE&lt;/a&gt;, entitulado &lt;strong&gt;Ensino e gestão do conhecimento em geotecnologias para um “Novo Normal”: reflexões a partir das iniciativas do GeoCast Brasil&lt;/strong&gt;, onde comentamos os desafios de ensino remoto e como as liver de R foram desafiadoras e nos fizeram pensar em formas alternativas de ensino. Deixo a &lt;a href=&#34;https://mauriciovancine.github.io/slides/talk-sbide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;apresentação&lt;/a&gt; e &lt;a href=&#34;https://mauriciovancine.github.io/pdf/2021-anais-sbide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;resumo&lt;/a&gt; disponíveis para quem quiser passar os olhos.&lt;/p&gt;
+&lt;p&gt;Já que não pensei em como deixar minhas aulas disponíveis, mas sei de professores(as) mais organizados(as) que eu, o intuito desse post é justamente listar disciplinas de graduação e pós-graduação, disponibilizadas de forma remota e aberta no YouTube.&lt;/p&gt;
+&lt;p&gt;Este é um post colaborativo, ficarei feliz demais em receber ajuda para aumentar essa listagem.&lt;/p&gt;
+&lt;h2 id=&#34;prof-alexandre-adalardo-de-oliveira-usp&#34;&gt;Prof. Alexandre Adalardo de Oliveira (USP)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLg7_KQP14uSF8SRTbha-ezqu4lH-ATxb3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EcoR: Introdução à Linguagem R&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLg7_KQP14uSGMKE9bmnVINkB4TXMdv0XO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PlAnEco: Planejamento e Análise de dados em Ecologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-bruno-vilela-ufba&#34;&gt;Prof. Bruno Vilela (UFBA)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PL3U7PUKvYnzAZAEoFcjGLVkIML2ZGGl6t&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curso de Programação em R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-pavel-dodonov-ufba&#34;&gt;Prof. Pavel Dodonov (UFBA)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL3U7PUKvYnzCiT8rb3Tv25R-dZo6YYzut&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estatística Aplicada à Ecologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL3U7PUKvYnzAtEU1znfx2MQTjirVVCs0Z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estatística Aplicada à Biologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PL3U7PUKvYnzDPjJYBEzwVBqiQHcKYAiOd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecologia Espacial&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-diogo-borges-provete-ufms&#34;&gt;Prof. Diogo Borges Provete (UFMS)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLy2rjqiD2VP6p7RNCZ7lGU4j3CqjJDuWX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linguagem de Programação Estatística para Biologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLy2rjqiD2VP5G6pqMo_QlWo7I3yu-uFTk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Análises Multidimensionais&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-kleber-del-claro-ufu&#34;&gt;Prof. Kleber Del Claro (UFU)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL2T3g_8Bm49S-ATCZQ118JnjXjoIG_r1Z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecologia Geral&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL2T3g_8Bm49TbMxbXnC2u0qmO5CHPahH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecologia Comportamental&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-thiago-rangel-ufg&#34;&gt;Prof. Thiago Rangel (UFG)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://estat.bio.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curso de Estatistica para Pesquisa Científica&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-walmes-zeviani-ufpr&#34;&gt;Prof. Walmes Zeviani (UFPR)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCwVcL3wtVJNmgFZdNickiqw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Regressão Linear&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;agradecimentos&#34;&gt;Agradecimentos&lt;/h2&gt;
+&lt;p&gt;Como forma de agradecimento, vou listando as pessoas que contrinuíram aqui.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://thiagocalvesouza.wixsite.com/ecoffun&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Thiago Gonçalves-Souza&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://beatrizmilz.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bea Milz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>We R Live</title>
+      <link>https://mauriciovancine.github.io/pt/video/werlive/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/video/werlive/</guid>
+      <description>&lt;h1 id=&#34;we-r-live&#34;&gt;We R Live&lt;/h1&gt;
+&lt;p&gt;Eu e &lt;a href=&#34;https://twitter.com/FelipeSMBarros&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Felipe Sodré&lt;/a&gt;, por meio do canal  &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoCast Brasil&lt;/a&gt; no YouTube, criamos este projeto para compartilhar um pouco do nosso conhecimento sobre o manejo e visualização de dados geoespaciais através da linguagem R. Sempre partindo de uma situação problema, apresentamos os principais conceitos teóricos e abordagens práticas para a sua resolução&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-01---por-onde-começaru&#34;&gt;&lt;u&gt;We R Live 01 - Por onde começaR?&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive01/werlive01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/ZORFVdwtJ1U&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-02---elaborando-mapas-no-ru&#34;&gt;&lt;u&gt;We R Live 02 - Elaborando mapas no R&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive02/werlive02&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive02&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/eHht0n3Ppcg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-03---elaborando-mapa-no-r-com-tmapu&#34;&gt;&lt;u&gt;We R Live 03 - Elaborando mapa no R com tmap&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive03/werlive03&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive03&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/BmlM25XQ3QA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-04---manipulando-dados-raster-no-ru&#34;&gt;&lt;u&gt;We R Live 04 - Manipulando dados raster no R&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive04/werlive04&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive04&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/dFC9SuGLuX8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-05---manipulando-dados-raster-no-r-iiu&#34;&gt;&lt;u&gt;We R Live 05 - Manipulando dados raster no R II&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive05/werlive05&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive05&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/AKJo_Q0dsMI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-06---extraindo-dados-climáticos-para-pontosu&#34;&gt;&lt;u&gt;We R Live 06 - Extraindo dados climáticos para pontos&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive06/werlive06&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive06&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/-_ODMFDU6ck&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-07---introdução-à-estatística-espacial-iu&#34;&gt;&lt;u&gt;We R Live 07 - Introdução à Estatística Espacial I&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive07/werlive07&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive07&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/fHWD4qyKj84&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-08---introdução-à-estatística-espacial-iiu&#34;&gt;&lt;u&gt;We R Live 08 - Introdução à Estatística Espacial II&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive08/werlive08&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive08&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/BCl_V-SpQec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-09---introdução-à-estatística-espacial-iiiu&#34;&gt;&lt;u&gt;We R Live 09 - Introdução à Estatística Espacial III&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive09/werlive09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/eaR7pTsQFDQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-10---join-como-associar-dados-à-vetoresu&#34;&gt;&lt;u&gt;We R Live 10 - Join como associar dados à vetores&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive10/werlive10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/BvURukaIDM0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-11---florestal---pacote-para-inventário-florestal-no-r-com-igor-cobelou&#34;&gt;&lt;u&gt;We R Live 11 - florestal - Pacote para inventário florestal no R com Igor Cobelo&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/igorcobelo/florestal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/xOgsVywKADI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-12---geografia-das-eleições-com-lucas-gelapeu&#34;&gt;&lt;u&gt;We R Live 12 - Geografia das Eleições com Lucas Gelape&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://lgelape.github.io/blog/geografia_eleicoes/geografia_eleitoral_slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/KN4kkvKkb_w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-13---introdução-à-estatística-espacial-ivu&#34;&gt;&lt;u&gt;We R Live 13 - Introdução à estatística Espacial IV&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive13/werlive13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/IsOJvaWdyXE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-14---geoestatística-com-prof-jorge-kazuo-yamamotou&#34;&gt;&lt;u&gt;We R Live 14 - Geoestatística com Prof. Jorge Kazuo Yamamoto&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive14/apresentacaoJKY_25082020.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/aIdntosdKIo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-15---introdução-à-estatística-espacial-vu&#34;&gt;&lt;u&gt;We R Live 15 - Introdução à estatística Espacial V&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive15/werlive15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/IeGTr7mjZIc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-16-r-markdown-usando-o-r-para-comunicar-seus-resultados-com-beatriz-milzu&#34;&gt;&lt;u&gt;We R Live 16: R Markdown: usando o R para comunicar seus resultados com Beatriz Milz&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://beatrizmilz.github.io/slidesR/rmarkdown/rmarkdown_packages.html#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://beamilz.netlify.app/rmarkdown.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/6oPZ5sGt6LA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1 id=&#34;we-r-live-coding&#34;&gt;We R Live Coding&lt;/h1&gt;
+&lt;p&gt;Começamos outra ideia: fazer codificação ao vivo, onde desenvolvemos código do zero&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-coding-01---insomniau&#34;&gt;&lt;u&gt;We R Live Coding 01 - Insomnia&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/geocastbrasil/we-r-live-coding/-/tree/master/livecoding01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/I4ErDOwdXrk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-coding-02---on-fireu&#34;&gt;&lt;u&gt;We R Live Coding 02 - On fire!&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/geocastbrasil/we-r-live-coding/-/tree/master/livecoding02&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/5BipR4L-n1Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-coding-03---on-fire-ii-com-prof-gustavo-baptistau&#34;&gt;&lt;u&gt;We R Live Coding 03 - On fire II com Prof. Gustavo Baptista&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/geocastbrasil/we-r-live-coding/-/blob/master/livecoding03&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.facebook.com/GeoCastBrasil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Métricas de paisagem no R</title>
+      <link>https://mauriciovancine.github.io/pt/video/landscape-metrics/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/video/landscape-metrics/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RCTrLx_33D8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Neste vídeo, à convite do &lt;a href=&#34;https://twitter.com/FelipeSMBarros&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Felipe Sodré&lt;/a&gt;, do canal &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoCast Brasil&lt;/a&gt;, fiz uma live um tanto longa, onde falei sobre Ecologia da Paisagem e alguns dos principais conceitos atrelados à essa disciplina, e uma parte prática sobre o cálculo de métricas de paisagem utilizando a linguagem R, mais especificamente utilizando o pacote &lt;a href=&#34;https://r-spatialecology.github.io/landscapemetrics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;landscapemetrics&lt;/em&gt;&lt;/a&gt;. A apresentação e códigos podem ser acessados nesse &lt;a href=&#34;https://gitlab.com/geocastbrasil/landscapemetrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositório do GitLab&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

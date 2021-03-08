@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maurício Vancine</title>
+    <link>https://mauriciovancine.github.io/pt/</link>
+      <atom:link href="https://mauriciovancine.github.io/pt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maurício Vancine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Maurício Vancine 2021</copyright><lastBuildDate>Fri, 02 Apr 2021 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Maurício Vancine</title>
+      <link>https://mauriciovancine.github.io/pt/</link>
+    </image>
+    
+    <item>
+      <title>Aplicações da Cartografia para a Ecologia Espacial</title>
+      <link>https://mauriciovancine.github.io/pt/talk/talk-sdm-uff/</link>
+      <pubDate>Fri, 02 Apr 2021 14:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/talk/talk-sdm-uff/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/talk/talk-sdm-uff/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;A cartografia possui diversas aplicações em outras áreas de conhecimento que necessitam realizar a visualização de dados geoespaciais. Nessa palestra demonstro algumas aplicações da cartografia para a Ecologia Espacial, principalmente em relação aos Modelos de Distribuição de Espécies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disciplinas de graduação e pós-graduação on-line</title>
+      <link>https://mauriciovancine.github.io/pt/post/general-courses-online/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/post/general-courses-online/</guid>
+      <description>&lt;h2 id=&#34;contextualização&#34;&gt;Contextualização&lt;/h2&gt;
+&lt;p&gt;A pandemia de COVID-19 iniciou-se com o primeiro caso no Brasil no dia &lt;strong&gt;26 de fevereiro de 2020&lt;/strong&gt;. Desde de então, acredito que todo professor(a), seja ele(a) de qualquer nível, do maternal a pós-graduação, se viu em meio à necessidade de &lt;strong&gt;ministrar aulas remotamente&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Ano passado tive o prazer de oferecer duas disciplinas remotamente: uma na graduação em Ecologia (&amp;ldquo;Modelos Estatísticos em Ecologia&amp;rdquo;) e outra na Pós-Graduação em Ecologia, Evolução e Biodiversidade (&lt;a href=&#34;https://mauriciovancine.github.io/pt/courses/course-geospatial-analisys-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Introdução ao uso de dados geoespaciais no R&amp;rdquo;&lt;/a&gt;), ambas na UNESP-Rio Claro. A UNESP fez um plano emergencial de adotar todas as ferramentas do &lt;a href=&#34;https://classroom.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Classroom&lt;/a&gt;, como acredito que grande parte das universidades e escolas adotaram.&lt;/p&gt;
+&lt;p&gt;Infelizmente, apesar de eu ter gravado ambas para repassar aos alunos, não pensei como seria uma oportunidade fantástica para manter esse material permanente e disponível à qualquer pessoa no YouTube, pode exemplo. Para isso, eu teria de editar horas e mais horas de vídeos, e não disponho desse tempo para isso, não pelo menos agora&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Entretanto, desde o início do ano passado, comecei a fazer parte do canal no YouTube &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoCast Brasil&lt;/a&gt;. Eu e o &lt;a href=&#34;https://felipesbarros.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Felipe Sodré Mendes Barros&lt;/a&gt; fizemos diversas lives de R focando na parte espacial, &lt;a href=&#34;https://mauriciovancine.github.io/pt/video/werlive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;We R Live&lt;/a&gt;, com vários convidados e convidadas muito legais. Esse ano está complicado de retomarmos por conta de vários projetos, doutorado e trabalho&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Desse projeto nasceu um resumo muito legal que publicamos no &lt;a href=&#34;https://inde.gov.br/simposio-12-anos/sbide-home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;II Simpósio Brasileiro de Infraestrutura de Dados Espaciais - SBIDE&lt;/a&gt;, entitulado &lt;strong&gt;Ensino e gestão do conhecimento em geotecnologias para um “Novo Normal”: reflexões a partir das iniciativas do GeoCast Brasil&lt;/strong&gt;, onde comentamos os desafios de ensino remoto e como as liver de R foram desafiadoras e nos fizeram pensar em formas alternativas de ensino. Deixo a &lt;a href=&#34;https://mauriciovancine.github.io/slides/talk-sbide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;apresentação&lt;/a&gt; e &lt;a href=&#34;https://mauriciovancine.github.io/pdf/2021-anais-sbide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;resumo&lt;/a&gt; disponíveis para quem quiser passar os olhos.&lt;/p&gt;
+&lt;p&gt;Já que não pensei em como deixar minhas aulas disponíveis, mas sei de professores(as) mais organizados(as) que eu, o intuito desse post é justamente listar disciplinas de graduação e pós-graduação, disponibilizadas de forma remota e aberta no YouTube.&lt;/p&gt;
+&lt;p&gt;Este é um post colaborativo, ficarei feliz demais em receber ajuda para aumentar essa listagem.&lt;/p&gt;
+&lt;h2 id=&#34;prof-alexandre-adalardo-de-oliveira-usp&#34;&gt;Prof. Alexandre Adalardo de Oliveira (USP)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLg7_KQP14uSF8SRTbha-ezqu4lH-ATxb3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EcoR: Introdução à Linguagem R&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLg7_KQP14uSGMKE9bmnVINkB4TXMdv0XO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PlAnEco: Planejamento e Análise de dados em Ecologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-bruno-vilela-ufba&#34;&gt;Prof. Bruno Vilela (UFBA)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PL3U7PUKvYnzAZAEoFcjGLVkIML2ZGGl6t&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curso de Programação em R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-pavel-dodonov-ufba&#34;&gt;Prof. Pavel Dodonov (UFBA)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL3U7PUKvYnzCiT8rb3Tv25R-dZo6YYzut&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estatística Aplicada à Ecologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL3U7PUKvYnzAtEU1znfx2MQTjirVVCs0Z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estatística Aplicada à Biologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PL3U7PUKvYnzDPjJYBEzwVBqiQHcKYAiOd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecologia Espacial&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-diogo-borges-provete-ufms&#34;&gt;Prof. Diogo Borges Provete (UFMS)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLy2rjqiD2VP6p7RNCZ7lGU4j3CqjJDuWX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linguagem de Programação Estatística para Biologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLy2rjqiD2VP5G6pqMo_QlWo7I3yu-uFTk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Análises Multidimensionais&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-kleber-del-claro-ufu&#34;&gt;Prof. Kleber Del Claro (UFU)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL2T3g_8Bm49S-ATCZQ118JnjXjoIG_r1Z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecologia Geral&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL2T3g_8Bm49TbMxbXnC2u0qmO5CHPahH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecologia Comportamental&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-thiago-rangel-ufg&#34;&gt;Prof. Thiago Rangel (UFG)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://estat.bio.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curso de Estatistica para Pesquisa Científica&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-walmes-zeviani-ufpr&#34;&gt;Prof. Walmes Zeviani (UFPR)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCwVcL3wtVJNmgFZdNickiqw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Regressão Linear&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;agradecimentos&#34;&gt;Agradecimentos&lt;/h2&gt;
+&lt;p&gt;Como forma de agradecimento, vou listando as pessoas que contrinuíram aqui.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://thiagocalvesouza.wixsite.com/ecoffun&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Thiago Gonçalves-Souza&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://beatrizmilz.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bea Milz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sistemas de Referência de Coordenadas e Datum</title>
+      <link>https://mauriciovancine.github.io/pt/post/geo-crs-datum/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/post/geo-crs-datum/</guid>
+      <description>&lt;link href=&#34;https://mauriciovancine.github.io/pt/post/geo-crs-datum/index_files/vembedr/css/vembedr.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;link href=&#34;https://mauriciovancine.github.io/pt/post/geo-crs-datum/index_files/vembedr/css/vembedr.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;h2 id=&#34;contextualização&#34;&gt;Contextualização&lt;/h2&gt;
+&lt;p&gt;Um dos primeiros assuntos que devemos entender antes de iniciar no mundo do &lt;strong&gt;Geoprocessamento&lt;/strong&gt; são os conceitos de &lt;strong&gt;Sistema de Referência de Coordenadas&lt;/strong&gt; e &lt;strong&gt;Datum&lt;/strong&gt;. Esses conceitos atrelados à Cartografia apesar de &lt;strong&gt;parecerem simples&lt;/strong&gt; para quem possui certa experiência na área de Geoprocessamento, muitas vezes são &lt;strong&gt;confundidos ou mesmo ignorados&lt;/strong&gt; por aqueles que estão adentrando nessa área.&lt;/p&gt;
+&lt;p&gt;Dessa forma, minha intenção com esse post é &lt;strong&gt;transmitir esses conceitos de forma simples e objetiva&lt;/strong&gt;, usando uma linguagem prática, para facilitar seu uso no dia a dia. Não adentro aqui em como aplicar esses conceitos em softwares de SIG ou toda a matemática envolvida. Para se aprofundar, recomendo livros específicos no final do post ou mesmo procurar disciplinas de Engenharia Cartográfica e/ou Geodéria.&lt;/p&gt;
+&lt;h2 id=&#34;sistema-de-referência-de-coordenadas&#34;&gt;Sistema de Referência de Coordenadas&lt;/h2&gt;
+&lt;p&gt;Os dados geoespaciais (vetor e raster, explicados com detalhes neste &lt;a href=&#34;https://mauriciovancine.github.io/pt/post/geo-geospatial-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt;), possuem um componente fundamental, que é o &lt;strong&gt;Sistema de Referência de Coordenadas&lt;/strong&gt; ou do inglês &lt;em&gt;Coordinate Reference System (CRS)&lt;/em&gt;. Esse componente define como os elementos espaciais (vetor e raster) representam uma feição na superfície da Terra.&lt;/p&gt;
+&lt;p&gt;O Sistema de Referência de Coordenadas é composto de &lt;strong&gt;quatro componentes&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Sistema de coordenadas&lt;/strong&gt;: grade X e Y na qual os dados são sobrepostos e localizados no espaço&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unidades horizontais e verticais&lt;/strong&gt;: unidades usadas para definir a grade ao longo dos eixos X e Y&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Datum&lt;/strong&gt;: versão modelada da forma da Terra que define a origem usada para localizar o sistema de coordenadas no planeta&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Informações de projeção&lt;/strong&gt;: equação matemática usada para nivelar objetos que estão em uma superfície redonda para visualização em uma superfície plana&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;O &lt;strong&gt;Sistema de coordenadas&lt;/strong&gt; é defido com base nas &lt;strong&gt;Unidades horizontais e verticais&lt;/strong&gt; que estão sendo utilizadas para a representação geográfica, podendo assumir dois tipos: &lt;strong&gt;ângulos&lt;/strong&gt; para &lt;strong&gt;Sistema de Coordenadas Geográficas&lt;/strong&gt; e &lt;strong&gt;metros&lt;/strong&gt; para &lt;strong&gt;Sistema de Coordenadas Projetadas&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Outro componente é o &lt;strong&gt;datum&lt;/strong&gt;, que é a &lt;strong&gt;relação&lt;/strong&gt; desses sistemas de coordenadas com a superfície da Terra. O Datum faz parte de uma área da &lt;strong&gt;Cartografia&lt;/strong&gt; denominada &lt;strong&gt;Geodésia&lt;/strong&gt; que estuda a forma e dimensões da Terra, campo gravitacional e a localização de pontos fixos e sistemas de coordenadas.&lt;/p&gt;
+&lt;p&gt;Por fim, as &lt;strong&gt;Informações de projeção&lt;/strong&gt; que são equações matemáticas constituídas com base nas informações anteriores permite a representação e cálculos de propriedades das feições representadas nos mapas. Esse tópico não abordaremos aqui por estarem fora da minha alçada… Muito senos, cossenos, dericadas e integrais… Melhor deixar para os geofísicos e engenheiros cartográficos…&lt;/p&gt;
+&lt;p&gt;Veremos mais informações para o uso prático, focado no &lt;strong&gt;Sistemas de Coordenadas&lt;/strong&gt; e &lt;strong&gt;Datum&lt;/strong&gt; e como combiná-los para formar o Sistema de Referência de Coordenadas.&lt;/p&gt;
+&lt;h2 id=&#34;sistema-de-coordenadas-geográficas&#34;&gt;Sistema de Coordenadas Geográficas&lt;/h2&gt;
+&lt;p&gt;O &lt;strong&gt;Sistema de Coordenadas Geográficas&lt;/strong&gt; utiliza &lt;strong&gt;ângulos&lt;/strong&gt; para representar feições na superfície da Terra através de dois valores: longitude e latitude. A &lt;strong&gt;longitude&lt;/strong&gt; localiza-se na direção Leste-Oeste e a &lt;strong&gt;latitude&lt;/strong&gt; localiza-se na direção Norte-Sul. Nesse sistema, a &lt;strong&gt;superfície da Terra&lt;/strong&gt; geralmente é representada por uma &lt;strong&gt;superfície elipsoidal&lt;/strong&gt;, pois a Terra é ligeiramente achatada nos pólos (Figura &lt;a href=&#34;#fig:fig-geo&#34;&gt;1&lt;/a&gt;).&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;img/geo_geographic.png&#34; alt=&#34;Sistema de Coordenadas Geográficas. Fonte: Documentação do QGIS.&#34; width=&#34;70%&#34; /&gt;&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figura 1: Sistema de Coordenadas Geográficas. Fonte: Documentação do QGIS.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;sistema-de-coordenadas-projetadas&#34;&gt;Sistema de Coordenadas Projetadas&lt;/h2&gt;
+&lt;p&gt;O &lt;strong&gt;Sistema de Coordenadas Projetadas&lt;/strong&gt; utiliza um &lt;strong&gt;Sistema Cartesiano de Coordenadas&lt;/strong&gt; em uma &lt;strong&gt;superfície plana&lt;/strong&gt;. Dessa forma, à partir de uma origem, traçam-se eixos X e Y, e uma unidade linear, como o &lt;strong&gt;metro&lt;/strong&gt;, é utilizada para representar as feições.&lt;/p&gt;
+&lt;p&gt;Todos as &lt;strong&gt;projeções&lt;/strong&gt; são feitas a partir de sistemas geográficos, convertendo uma &lt;strong&gt;superfície tridimensional&lt;/strong&gt; em uma &lt;strong&gt;superfície plana bidimensional&lt;/strong&gt;. Sendo assim, essa conversão trás consigo algum tipo de &lt;strong&gt;distorção em relação à porção real&lt;/strong&gt;, podendo ser distorções em: 1. formas locais, 2. áreas, 3. distâncias, 4. flexão ou curvatura, 5. assimetria e 6. lacunas de continuidade. Dessa forma, um sistema de coordenadas projetadas pode preservar somente uma ou duas dessas propriedades.&lt;/p&gt;
+&lt;p&gt;Dois vídeos ajudam a entender melhor essas distorções:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Todos os mapas do mundo são imperfeitos. Entenda as razões e as soluções para amenizar distorções&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;vembedr&#34; align=&#34;center&#34;&gt;
+&lt;div&gt;
+&lt;iframe src=&#34;https://www.youtube.com/embed/zUE5LOwFrvk&#34; width=&#34;533&#34; height=&#34;300&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Why all world maps are wrong&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;vembedr&#34; align=&#34;center&#34;&gt;
+&lt;div&gt;
+&lt;iframe src=&#34;https://www.youtube.com/embed/kIID5FDi2JQ&#34; width=&#34;533&#34; height=&#34;300&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Existem &lt;strong&gt;três grandes grupos&lt;/strong&gt; de projeções: planares, cônicos e cilíndricos (Figura &lt;a href=&#34;#fig:fig-proj&#34;&gt;2&lt;/a&gt;).&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;img/geo_proj_families.jpg&#34; alt=&#34;Sistema de Referência de Coordenadas Projetadas, dividido em três grupos: plana, cônica e cilíndrica. Fonte: Geographic Information System Basics.&#34; width=&#34;60%&#34; /&gt;&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figura 2: Sistema de Referência de Coordenadas Projetadas, dividido em três grupos: plana, cônica e cilíndrica. Fonte: Geographic Information System Basics.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Na &lt;strong&gt;projeção plana&lt;/strong&gt;, também denominada &lt;strong&gt;Projeção Azimutal&lt;/strong&gt;, o mapeamento toca o globo em um ponto ou ao longo de uma linha de tangência, sendo normalmente usado no mapeamento de regiões polares, sendo a mais comum a &lt;strong&gt;Projeção Azimutal Equidistante&lt;/strong&gt;, a mesma utilizada na bandeira da ONU (Figura &lt;a href=&#34;#fig:fig-plana&#34;&gt;3&lt;/a&gt;).&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;img/geo_proj_plana.jpg&#34; alt=&#34;Projeção plana. Fonte: Atlas Escolar IBGE.&#34; width=&#34;70%&#34; /&gt;&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figura 3: Projeção plana. Fonte: Atlas Escolar IBGE.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Na &lt;strong&gt;projeção cônica&lt;/strong&gt;, a superfície da Terra é projetada em um &lt;strong&gt;cone&lt;/strong&gt; ao longo de uma linha ou duas linhas de tangência, de modo que as distorções são minimizadas ao longo das linhas e aumentam com a distância das mesmas, sendo portanto, mais adequada para mapear áreas de latitudes médias, tendo como exemplo mais conhecidos a &lt;strong&gt;Projeção Cônica Equivalente de Albers&lt;/strong&gt; e a &lt;strong&gt;Projeção Cônica Conforme de Lambert&lt;/strong&gt; (Figura &lt;a href=&#34;#fig:fig-conica&#34;&gt;4&lt;/a&gt;).&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;img/geo_proj_conica.jpg&#34; alt=&#34;Projeção cônica. Fonte: Atlas Escolar IBGE.&#34; width=&#34;100%&#34; /&gt;&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figura 4: Projeção cônica. Fonte: Atlas Escolar IBGE.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Na &lt;strong&gt;projeção cilíndrica&lt;/strong&gt;, a superfície da Terra é mapeada em um &lt;strong&gt;cilindro&lt;/strong&gt;, sendo também criada tocando a superfície da Terra ao longo de uma ou duas linhas de tangência, sendo utilizada com mais frequência para mapear todo o globo, tendo como exemplo mais conhecido a &lt;strong&gt;Projeção Universal Transversa de Mercator (UTM)&lt;/strong&gt;, &lt;strong&gt;Projeção de Winkel Tripel&lt;/strong&gt; e &lt;strong&gt;Projeção de Mollweide&lt;/strong&gt;(Figura &lt;a href=&#34;#fig:fig-cilindrica&#34;&gt;5&lt;/a&gt;).&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;img/geo_proj_cilindrica.jpg&#34; alt=&#34;Projeção cilíndrica. Fonte: Atlas Escolar IBGE.&#34; width=&#34;100%&#34; /&gt;&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figura 5: Projeção cilíndrica. Fonte: Atlas Escolar IBGE.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;datum&#34;&gt;Datum&lt;/h2&gt;
+&lt;p&gt;Como dito anteriormente, o &lt;strong&gt;datum&lt;/strong&gt; é a &lt;strong&gt;relação&lt;/strong&gt; do sistema de coordenadas com a superfície da Terra. Ele representa o &lt;strong&gt;ponto de intersecção&lt;/strong&gt; do elipsoide de referência com a superfície da Terra (geoide, a forma verdadeira da Terra), compensando as diferenças do campo gravitacional da Terra (Figura &lt;a href=&#34;#fig:fig-datum&#34;&gt;6&lt;/a&gt;).&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;img/geo_datum_eli_geo.png&#34; alt=&#34;Datum, Geoide, Esferoide e Elipsoide. Fonte: Ciência Hoje e Lapig.&#34; width=&#34;100%&#34; /&gt;&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figura 6: Datum, Geoide, Esferoide e Elipsoide. Fonte: Ciência Hoje e Lapig.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Existem dois tipos de datum: geocêntrico e local (Figura &lt;a href=&#34;#fig:fig-datum-geo-local&#34;&gt;7&lt;/a&gt;). Para um &lt;strong&gt;datum geocêntrico&lt;/strong&gt;, como o &lt;strong&gt;WGS84 - World Geodetic System 1984&lt;/strong&gt;, o centro do elipsoide é o centro de gravidade da Terra e a precisão das projeções não é otimizada para um local específico do globo. Já em um &lt;strong&gt;datum local&lt;/strong&gt;, como o &lt;strong&gt;SAD69 - South American Datum 1969&lt;/strong&gt;, o elipsoide de referência é deslocado para se alinhar com a superfície em um determinado local, como por exemplo, na América do Sul para o SAD69 (Figura &lt;a href=&#34;#fig:fig-datum-geo-local&#34;&gt;7&lt;/a&gt;).&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;img/geo_datum_global_local.jpeg&#34; alt=&#34;Datum global e datum local. Fonte: Aulas de Cartografia para Geoprocessamento do Programa de Pós-graduação em Computação, ênfase Geomática, UERJ.&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figura 7: Datum global e datum local. Fonte: Aulas de Cartografia para Geoprocessamento do Programa de Pós-graduação em Computação, ênfase Geomática, UERJ.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;No Brasil, desde 2015, o &lt;a href=&#34;https://www.ibge.gov.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto Brasileiro de Geografia e Estatística (IBGE)&lt;/a&gt; adotou utilizar o datum &lt;strong&gt;SIRGAS2000 - Sistema de Referencia Geocéntrico para las Américas 2000&lt;/strong&gt; para todos os mapeamentos realizados no Brasil, um esforço conjunto para adotar o mesmo datum em toda a América. Mais sobre esse datum pode ser lido aqui: &lt;a href=&#34;http://www.sirgas.org/pt/sirgas-realizations/sirgas2000/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIRGAS2000&lt;/a&gt; (Figura &lt;a href=&#34;#fig:fig-sirgas&#34;&gt;8&lt;/a&gt;)&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;img/geo_proj_sirgas2000.png&#34; alt=&#34;Sistema de Referencia Geocéntrico para las Américas (SIRGAS). Fonte: SIRGAS&#34; width=&#34;50%&#34; /&gt;&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figura 8: Sistema de Referencia Geocéntrico para las Américas (SIRGAS). Fonte: SIRGAS
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Comparando os &lt;strong&gt;datum SAD69 e SIRGAS2000&lt;/strong&gt;, podemos notar uma &lt;strong&gt;diferença de cerca de 65 metros&lt;/strong&gt;, que à depender do mapeamento pode fazer uma &lt;strong&gt;grande diferença&lt;/strong&gt;, a exemplo da planta de uma casa ou a construção de uma ponte (Figura &lt;a href=&#34;#fig:fig-datum-comp&#34;&gt;9&lt;/a&gt;)&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;img/geo_datum_sad_sirgas.jpg&#34; alt=&#34;Discrepância entre um mesmo ponto em SAD69 e SIRGAS2000 em regiões urbanas. Fonte: &#39;SIRGAS 2000, quando iniciar a sua utilização?&#39;&#34; width=&#34;70%&#34; /&gt;&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figura 9: Discrepância entre um mesmo ponto em SAD69 e SIRGAS2000 em regiões urbanas. Fonte: ‘SIRGAS 2000, quando iniciar a sua utilização?’
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;uso-na-prática-dos-sistemas-de-referência-de-coordenadas&#34;&gt;Uso na prática dos Sistemas de Referência de Coordenadas&lt;/h2&gt;
+&lt;p&gt;Na prática, o &lt;strong&gt;uso dos Sistemas de Referência de Coordenadas&lt;/strong&gt; é &lt;strong&gt;relativamente simples&lt;/strong&gt;. Primeramente, devemos entender a diferença entre os Sistemas de Coordenadas Geográficas, Sistemas de Coordenadas Projetadas e Datum.&lt;/p&gt;
+&lt;p&gt;Uma vez entendido isso, podemos passar para o passo seguinte: definir qual o &lt;strong&gt;melhor datum&lt;/strong&gt; para nossa região de interesse. E nesse passo, o IBGE já nos ajudou, devemos adotar sempre que possível o Datum SIRGAS2000, salvo raras exceções mais específicas que não adentraremos aqui. Além disso, há uma aproximação com o datum WGS84, facilitando a conversão de datum.&lt;/p&gt;
+&lt;p&gt;Por fim, devemos &lt;strong&gt;escolher se usaremos Coordenadas Geográfica ou Projetadas&lt;/strong&gt;. Isso vai depender muito dos &lt;strong&gt;objetivos do nosso mapeamento&lt;/strong&gt;. Se não faremos cálculos de áreas, ângulos ou distâncias, e estamos interessados em &lt;strong&gt;representar nossos dados&lt;/strong&gt; da melhor forma possível, não há motivos para não escolher Coordenadas Geográficas. Logo, nosso Sistemas de Referência de Coordenadas ficaria dessa forma: &lt;strong&gt;Coordenadas Geográficas com Datum SIRGAS2000 ou WGS84&lt;/strong&gt;. Essas coordendas geográficas podem ainda ser representadas em graus, minutos e segundos, ou em graus decimais.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;23°23’23”S 42°42’42”O; WGS 84&lt;/li&gt;
+&lt;li&gt;23°23’23”S 42°42’42”O; SIRGAS 2000&lt;/li&gt;
+&lt;li&gt;-23.38972, -42.71167; WGS 84&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Agora, se o &lt;strong&gt;objetivo do mapeamento&lt;/strong&gt; é o &lt;strong&gt;cálculo de áreas, distâncias ou formas&lt;/strong&gt;, devemos usar &lt;strong&gt;Coordenadas Projetadas&lt;/strong&gt;, pois as unidades são em metros. Mas aqui começa a complicação. Pela minha experiência prática, a primeira coisa a se considerar é a escala: se for uma escala local, podemos começar pelo uso do UTM, principalmente se todos os dados caem na mesma zona. Logo, nosso Sistemas de Referência de Coordenadas ficaria dessa forma: &lt;strong&gt;Coordenadas Projetadas UTM (zona) com Datum SIRGAS2000 ou WGS84&lt;/strong&gt;, com coordenadas sempre representadas em metros.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;23K 733876E, 7411482S; WGS 84&lt;/li&gt;
+&lt;li&gt;23K 733876E, 7411482S; SIRGAS 2000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Entretanto, se partimos para &lt;strong&gt;escala regionais&lt;/strong&gt; (continente) ou &lt;strong&gt;globais&lt;/strong&gt; (todo o mundo), devemos considerar projeções cônicas e/ou cilíndricas, repectivamente, além de observar as distorsões em área, distâncias ou formas, que ficam muito maiores a depender das que escolhemos. Basicamente existem três tipos de projeções: &lt;strong&gt;1) conforme&lt;/strong&gt; (não deforma ângulo)s, &lt;strong&gt;2) equivalente&lt;/strong&gt; (não altera áresas, e &lt;strong&gt;3) equidistante&lt;/strong&gt; (não deforma distâncias), e principalmente, quando nos afastamos das &lt;strong&gt;linhas linhas de tangência&lt;/strong&gt; dessas projeções.&lt;/p&gt;
+&lt;h2 id=&#34;códigos-para-os-sistemas-de-referência-de-coordenadas&#34;&gt;Códigos para os Sistemas de Referência de Coordenadas&lt;/h2&gt;
+&lt;p&gt;Por fim, algo que ajuda a simplicar esses conceitos são o código numérico &lt;code&gt;epsg&lt;/code&gt; e código em texto &lt;code&gt;proj4string&lt;/code&gt;. O código EPSG (&lt;em&gt;European Petroleum Survey Group&lt;/em&gt;) é uma sequência de numérica curta, referindo-se apenas a um CRS. O site &lt;a href=&#34;http://epsg.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;epsg.io&lt;/a&gt; permite consultar diversas informações sobre um código, como procurar por um número do código, representação de mapas e fazer transformações de CRSs (Figura &lt;a href=&#34;#fig:fig-epsg&#34;&gt;10&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Já o código em texto &lt;code&gt;proj4string&lt;/code&gt; permite mais flexibilidade para especificar diferentes parâmetros, como o tipo de projeção, datum e elipsóide. Dessa forma, é possível especificar muitas projeções, ou mesmo modificar as projeções existentes, tornando a representação &lt;code&gt;proj4string&lt;/code&gt; mais complexa e flexível.&lt;/p&gt;
+&lt;p&gt;Além disso, ainda é possível consultar uma extensa lista de CRSs no site &lt;a href=&#34;https://spatialreference.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spatialreference.org&lt;/a&gt;, que fornece descrições em diversis formatos, baseados em &lt;strong&gt;GDAL&lt;/strong&gt; e &lt;strong&gt;Proj.4&lt;/strong&gt;. Essa abordagem permite consultar uma URL que pode produzir uma referência espacial em um formato que um software SIG pode utilizar como referência.&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;img/geo_epsg.png&#34; alt=&#34;Site epsg.io com códigos EPSG. Fonte: epsg.io.&#34; width=&#34;150%&#34; /&gt;&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figura 10: Site epsg.io com códigos EPSG. Fonte: epsg.io.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;para-se-aprofundar&#34;&gt;Para se aprofundar&lt;/h2&gt;
+&lt;p&gt;Aqui ofereço apenas os conceitos básicos e bem superficiais, de forma prática. Para se aprofundar no tema, sugiro a leitura dos livros listados abaixo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lapaine, M., &amp;amp; Usery, E. L. (Eds.). (2017). &lt;a href=&#34;https://www.springer.com/gp/book/9783319518343&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choosing a map projection&lt;/a&gt;. Springer International Publishing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Oliveira, C. D. (1993). &lt;a href=&#34;https://biblioteca.ibge.gov.br/visualizacao/livros/liv81158.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curso de cartografia moderna&lt;/a&gt;. IBGE.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nogueira, R. E. (2008). Cartografia: representação, comunicação e visualização de dados espaciais. Ed. UFSC.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Duarte, P. A. (2002). Fundamentos de cartografia. Ed. UFSC.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental niche and functional role similarity between invasive and native palms in the Atlantic Forest</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2021-bello-etal/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2021-bello-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2021-gusmao-etal/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2021-gusmao-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future climate change will impact the size and location of breeding and wintering areas of migratory thrushes in South America</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2021-da-silveira-etal/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2021-da-silveira-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We R Live</title>
+      <link>https://mauriciovancine.github.io/pt/video/werlive/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/video/werlive/</guid>
+      <description>&lt;h1 id=&#34;we-r-live&#34;&gt;We R Live&lt;/h1&gt;
+&lt;p&gt;Eu e &lt;a href=&#34;https://twitter.com/FelipeSMBarros&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Felipe Sodré&lt;/a&gt;, por meio do canal  &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoCast Brasil&lt;/a&gt; no YouTube, criamos este projeto para compartilhar um pouco do nosso conhecimento sobre o manejo e visualização de dados geoespaciais através da linguagem R. Sempre partindo de uma situação problema, apresentamos os principais conceitos teóricos e abordagens práticas para a sua resolução&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-01---por-onde-começaru&#34;&gt;&lt;u&gt;We R Live 01 - Por onde começaR?&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive01/werlive01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/ZORFVdwtJ1U&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-02---elaborando-mapas-no-ru&#34;&gt;&lt;u&gt;We R Live 02 - Elaborando mapas no R&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive02/werlive02&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive02&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/eHht0n3Ppcg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-03---elaborando-mapa-no-r-com-tmapu&#34;&gt;&lt;u&gt;We R Live 03 - Elaborando mapa no R com tmap&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive03/werlive03&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive03&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/BmlM25XQ3QA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-04---manipulando-dados-raster-no-ru&#34;&gt;&lt;u&gt;We R Live 04 - Manipulando dados raster no R&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive04/werlive04&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive04&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/dFC9SuGLuX8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-05---manipulando-dados-raster-no-r-iiu&#34;&gt;&lt;u&gt;We R Live 05 - Manipulando dados raster no R II&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive05/werlive05&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive05&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/AKJo_Q0dsMI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-06---extraindo-dados-climáticos-para-pontosu&#34;&gt;&lt;u&gt;We R Live 06 - Extraindo dados climáticos para pontos&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive06/werlive06&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive06&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/-_ODMFDU6ck&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-07---introdução-à-estatística-espacial-iu&#34;&gt;&lt;u&gt;We R Live 07 - Introdução à Estatística Espacial I&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive07/werlive07&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive07&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/fHWD4qyKj84&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-08---introdução-à-estatística-espacial-iiu&#34;&gt;&lt;u&gt;We R Live 08 - Introdução à Estatística Espacial II&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive08/werlive08&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive08&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/BCl_V-SpQec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-09---introdução-à-estatística-espacial-iiiu&#34;&gt;&lt;u&gt;We R Live 09 - Introdução à Estatística Espacial III&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive09/werlive09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/eaR7pTsQFDQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-10---join-como-associar-dados-à-vetoresu&#34;&gt;&lt;u&gt;We R Live 10 - Join como associar dados à vetores&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive10/werlive10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/BvURukaIDM0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-11---florestal---pacote-para-inventário-florestal-no-r-com-igor-cobelou&#34;&gt;&lt;u&gt;We R Live 11 - florestal - Pacote para inventário florestal no R com Igor Cobelo&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/igorcobelo/florestal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/xOgsVywKADI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-12---geografia-das-eleições-com-lucas-gelapeu&#34;&gt;&lt;u&gt;We R Live 12 - Geografia das Eleições com Lucas Gelape&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://lgelape.github.io/blog/geografia_eleicoes/geografia_eleitoral_slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/KN4kkvKkb_w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-13---introdução-à-estatística-espacial-ivu&#34;&gt;&lt;u&gt;We R Live 13 - Introdução à estatística Espacial IV&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive13/werlive13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/IsOJvaWdyXE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-14---geoestatística-com-prof-jorge-kazuo-yamamotou&#34;&gt;&lt;u&gt;We R Live 14 - Geoestatística com Prof. Jorge Kazuo Yamamoto&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive14/apresentacaoJKY_25082020.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/aIdntosdKIo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-15---introdução-à-estatística-espacial-vu&#34;&gt;&lt;u&gt;We R Live 15 - Introdução à estatística Espacial V&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://werlive.netlify.app/werlive15/werlive15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://gitlab.com/geocastbrasil/liver/-/tree/master/static/werlive15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/IeGTr7mjZIc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-16-r-markdown-usando-o-r-para-comunicar-seus-resultados-com-beatriz-milzu&#34;&gt;&lt;u&gt;We R Live 16: R Markdown: usando o R para comunicar seus resultados com Beatriz Milz&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://beatrizmilz.github.io/slidesR/rmarkdown/rmarkdown_packages.html#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://beamilz.netlify.app/rmarkdown.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/6oPZ5sGt6LA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1 id=&#34;we-r-live-coding&#34;&gt;We R Live Coding&lt;/h1&gt;
+&lt;p&gt;Começamos outra ideia: fazer codificação ao vivo, onde desenvolvemos código do zero&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-coding-01---insomniau&#34;&gt;&lt;u&gt;We R Live Coding 01 - Insomnia&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/geocastbrasil/we-r-live-coding/-/tree/master/livecoding01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/I4ErDOwdXrk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-coding-02---on-fireu&#34;&gt;&lt;u&gt;We R Live Coding 02 - On fire!&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/geocastbrasil/we-r-live-coding/-/tree/master/livecoding02&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/5BipR4L-n1Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;uwe-r-live-coding-03---on-fire-ii-com-prof-gustavo-baptistau&#34;&gt;&lt;u&gt;We R Live Coding 03 - On fire II com Prof. Gustavo Baptista&lt;/u&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.com/geocastbrasil/we-r-live-coding/-/blob/master/livecoding03&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Material&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.facebook.com/GeoCastBrasil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelos de Distribuição de Espécies: uma visão geral</title>
+      <link>https://mauriciovancine.github.io/pt/talk/talk-sdm-gggc/</link>
+      <pubDate>Thu, 05 Mar 2020 09:30:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/talk/talk-sdm-gggc/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/talk/talk-sdm-gggc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Os Modelos de Distribuição de Espécies (SDM - Species Distribution Models) relacionam dados de ocorrências das espécies com suas condições ambientais para estimar o nicho das espécies e assim predizer novas áreas de possível distribuição. Nessa palestra, falei dos principais conceitos, dados de entrada e aplicações dessa abordagem na área de Ecologia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of landscape modification on species richness patterns of fruit-feeding butterflies in Brazilian Atlantic Forest</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2020-santos-etal/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2020-santos-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fragmented tropical forests lose mutualistic plant-animal interactions</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2020-marjakangas-etal/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2020-marjakangas-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Métricas de paisagem no R</title>
+      <link>https://mauriciovancine.github.io/pt/video/landscape-metrics/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/video/landscape-metrics/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RCTrLx_33D8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Neste vídeo, à convite do &lt;a href=&#34;https://twitter.com/FelipeSMBarros&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Felipe Sodré&lt;/a&gt;, do canal &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoCast Brasil&lt;/a&gt;, fiz uma live um tanto longa, onde falei sobre Ecologia da Paisagem e alguns dos principais conceitos atrelados à essa disciplina, e uma parte prática sobre o cálculo de métricas de paisagem utilizando a linguagem R, mais especificamente utilizando o pacote &lt;a href=&#34;https://r-spatialecology.github.io/landscapemetrics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;landscapemetrics&lt;/em&gt;&lt;/a&gt;. A apresentação e códigos podem ser acessados nesse &lt;a href=&#34;https://gitlab.com/geocastbrasil/landscapemetrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositório do GitLab&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introdução à linguagem R: manipulação e visualização de dados</title>
+      <link>https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-ecology/</link>
+      <pubDate>Wed, 06 Nov 2019 08:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-ecology/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-ecology/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;A linguagem R vem se destacando nos últimos anos (desde de 2000), como a principal ferramenta para manejo, visualização e análise de dados, principalmente na área de Ecologia, Psicologia, Economia, e mais recentemente, na Ciência de Dados. Neste curso serão abordados quatro temas introdutórios dessa linguagem: (i) introdução e funcionamento da linguagem R e do software RStudio, (ii) estrutura e manipulação de dados, (iii) introdução ao tidyverse, e (iv) visualização de dados. A carga horária será de aproximadamente 08 horas, onde será focada a parte teórico-prática, intercalada com a realização de exercícios para fixação do conteúdo. Ao final do curso, espera-se que os participantes tenham uma noção geral do funcionamento da linguagem e das potenciais aplicações dentro da área de análise de dados ecológicos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introdução à linguagem R: manipulação e visualização de dados</title>
+      <link>https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-biology/</link>
+      <pubDate>Wed, 23 Oct 2019 14:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-biology/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-biology/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;A linguagem R vem se destacando nos últimos anos (desde de 2000), como a principal ferramenta para manejo, visualização e análise de dados, principalmente na área de Ecologia, Psicologia, Economia, e mais recentemente, na Ciência de Dados. Neste curso serão abordados quatro temas introdutórios dessa linguagem: (i) introdução e funcionamento da linguagem R e do software RStudio, (ii) estrutura e manipulação de dados, (iii) introdução ao tidyverse, e (iv) visualização de dados. A carga horária será de aproximadamente 08 horas, onde será focada a parte teórico-prática, intercalada com a realização de exercícios para fixação do conteúdo. Ao final do curso, espera-se que os participantes tenham uma noção geral do funcionamento da linguagem e das potenciais aplicações dentro da área de análise de dados ecológicos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting the potential hybridization zones between native and invasive marmosets within Neotropical biodiversity hotspots</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2019-moraes-etal/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2019-moraes-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introdução à modelagem de distribuição de espécies usando a linguagem R: teoria e prática</title>
+      <link>https://mauriciovancine.github.io/pt/workshop/workshop-sdm-cbh/</link>
+      <pubDate>Mon, 22 Jul 2019 08:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/workshop/workshop-sdm-cbh/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/workshop/workshop-sdm-cbh/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;A ampla disponibilidade de dados sobre a biodiversidade e variáveis ambientais, tem permitido a utilização de diversas análises biogeográficas e macroecológicas, dentre elas, os modelos de distribuição de espécies ou Species Distribution Modeling (SDMs). Esse minicurso tem como intuito oferecer uma introdução teórica e prática à técnica de SDMs, utilizando a linguagem R. Primeiramente serão apresentados os principais conceitos da teoria de nicho ecológico (Grinnell, Elton e Hutchinson) e da teoria de modelos (espaço geográfico (G), espaço ambiental (E) e diagrama Biótico-Abiótico-Movimentação (BAM)). Seguida à parte teórica, serão apresentados as principais bases de dados (ocorrências e variáveis ambientais), tipos de algoritmos (presença e ausência – GLM, GAM e Random Forest, apenas presença – BIOCLIM, Mahalanobis e Gower, e presença e background – Maxent e SVM), avaliação dos modelos (ROC, AUC e TSS), limites de corte (thresholds) e algumas abordagens de consenso de modelos (ensembles). A parte prática será focada na construção dos modelos através da linguagem R. Inicialmente será feito uma introdução à programação e manejo de dados espaciais na linguagem R, utilizando os pacotes &lt;em&gt;raster&lt;/em&gt; e &lt;em&gt;rgdal&lt;/em&gt;. Em seguida, será apresentado como obter dados de ocorrências e variáveis ambientais, através dos pacotes &lt;em&gt;spocc&lt;/em&gt; e &lt;em&gt;dismo&lt;/em&gt;. Uma vez adquiridos os dados, serão feitas análises preliminares dos mesmos, como seleção de ocorrências (um ponto por célula) e de variáveis (correlação, PCA, análise fatorial e VIF). Por fim, serão construídos modelos utilizando os algoritmos mencionados acima, além do cálculo das métricas de avaliação dos mesmos, utilizando os pacotes &lt;em&gt;dismo&lt;/em&gt;, &lt;em&gt;randomForest&lt;/em&gt; e &lt;em&gt;kernlab&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Land-use changes and the expansion of biofuel crops threaten the giant anteater in southeastern Brazil</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2019-bertassoni-etal/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2019-bertassoni-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial prediction of risk areas for vector transmission of Trypanosoma cruzi in the State of Paraná, southern Brazil</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2018-ferro-e-silva-etal/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2018-ferro-e-silva-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ATLANTIC AMPHIBIANS: Conjunto de Dados de Comunidades de Anfíbios da Mata Atlântica</title>
+      <link>https://mauriciovancine.github.io/pt/talk/talk-data-paper-amphibians-anfoco/</link>
+      <pubDate>Sat, 04 Aug 2018 16:30:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/talk/talk-data-paper-amphibians-anfoco/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/talk/talk-data-paper-amphibians-anfoco/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;As incertezas acerca da diversidade e distribuição de espécies é um dos principais desafios para a biologia da conservação. O Bioma da Mata Atlântica é considerado um dos hotspots de biodiversidade mais ameaçados do mundo, detendo ainda um elevado número de espécies de anfíbios. Neste trabalho, apresentamos uma minuciosa compilação de comunidades de anfíbios para a Mata Atlântica. O conjunto de dados foi organizado com base numa ampla delimitação geográfica do bioma, englobando ecótonos e áreas do Paraguai e Argentina. Todos as informações das comunidades foram obtidas de artigos, livros e literatura não publicada (monografias de graduação, dissertações e teses). Organizamos informações sobre: 1) habitat amostrado, 2) métodos de amostragem, 3) horário de amostragem, 4) esforço amostral (mês e ano inicial e final), 5) composição ou abundância das espécies, 6) endemismo, e 7) localização geográfica (latitude, longitude, país, estado, município e localidade específica). Fizemos atualizações taxonômicas segundo os dados da base do Amphibian Species of the World: an Online Reference, para setembro de 2017. O banco de dados foi estruturado a partir de 389 referências, amostradas entre os anos de 1940 a 2017, que incluiu 1.163 locais de estudo, para os quais há 17.619 registros de 528 espécies com certeza taxonômica. Do total de registros, 14.450 (82%) foram classificados de acordo com o critério do endemismo ao Bioma da Mata Atlântica, dos quais 7.787 (44%) foram considerados endêmicos. Os métodos mais representativos foram: 1) busca visual ou auditiva (82,1%), 2) busca em sítio reprodutivo (20%), 3) armadilha de interceptação e queda (pitfall, 15,3%), e 4) encontro ocasional (14,5%). Dentre os habitats amostrados, nenhum foi predominante, apesar do habitat florestal ter sido relatado com maior frequência (40,7%). A maior parte dos locais de estudo tiveram amostragem realizada em corpos d’água: riacho no interior da floresta (33,5%), poça permanente (30,2%), lago (28,9%), brejo (28,6%), poça temporária (27,5%), poça semipermanente (5,8%) e riacho em área aberta (4,5%). A riqueza de espécies foi de 15,2 ± 11,3 DP, variando de 1 a 80 espécies por local. Houve um grande viés de amostragem, sendo que a maioria das amostragens foi realizada nos estados de São Paulo (38,4%), Paraná (14,2%) e Minas Gerais (10,1%), representando coletivamente quase 63% das pesquisas. Esse alto viés para esses três estados pode ter sido por diversos motivos: 1) descrição de dois ou mais locais de estudo para a mesma referência; 2) processo histórico de formação de pesquisadores, além do incentivo de pesquisas de amostragem de anfíbios pelo Programa BIOTA-FAPESP; e 3) numerosas coleções herpetológicas, que possivelmente atraiu pesquisadores para realizar trabalhos taxonômicos. O resultado dessa compilação de dados gerou um panorama geral da diversidade, composição, métodos e esforço amostral das comunidades de anfíbios para o Bioma da Mata Atlântica, representando um enorme esforço para preencher uma lacuna de conhecimento acerca da biodiversidade de anfíbios na Região Neotropical. Esperamos que estes dados possam ser utilizados como uma ferramenta para a conservação deste grupo, além de ser uma fonte de dados importante para estudos de padrões macroecológicos e biogeográficos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ATLANTIC AMPHIBIANS: a data set of amphibian communities from the Atlantic Forests of South America</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2018-vancine-etal/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2018-vancine-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Note on the Territorial Limits of the Atlantic Forest</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2018-muylaert-etal/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2018-muylaert-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiency of protected areas in Amazon and Atlantic Forest conservation: A spatio-temporal view</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2018-sobral-souza-etal/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2018-sobral-souza-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest cover influences occurrence of mammalian carnivores within Brazilian Atlantic Forest</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2017-regolin-etal/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2017-regolin-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of mining activities on the potential geographic distribution of eastern Brazil mountaintop endemic species</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2017-pena-etal/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2017-pena-etal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High mammal species turnover in forest patches immersed in biofuel plantations</title>
+      <link>https://mauriciovancine.github.io/pt/publication/2017-beca-etal/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/publication/2017-beca-etal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

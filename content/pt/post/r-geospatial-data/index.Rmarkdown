@@ -1,0 +1,151 @@
+---
+title: "Dados geoespaicias no R"
+author: mauriciovancine
+date: "2021-06-20"
+slug: []
+categories: [r, spatial, tutorial]
+tags: [r, rstats, rspatial]
+subtitle: ""
+summary: "Um guia para começar a usar dados geoespaciais no R"
+authors: []
+lastmod: r`Sys.time()`
+featured: no
+image: 
+  caption: "[R logo](https://www.r-project.org/logo/)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(knitr)
+library(sf)
+library(raster)
+library(rnaturalearth)
+```
+
+## Contextualização
+
+
+### *sf*: principal pacote no R para dados vetoriais
+
+Atualmente o principal pacote para trabalhar com dados vetoriais no R é o [*sf*](https://r-spatial.github.io/sf/), que implementou o *Simple Feature* no R (Pebesma 2018). Entretanto, outro pacote pode ser tão versátil quanto o *sf*, no caso o [*terra*](https://rspatial.org/terra/index.html), ainda em desenvolvimento.
+
+O pacote *sf* facilitou muito a forma de trabalhar com vetores no R, sendo que as principais vantagens desse pacote são (Lovelace, Nowosad & Muenchow 2019):
+
+-   rápida importação e exportação de dados
+-   aprimorado desempenho de plotagem
+-   objetos *sf* podem ser tratados como dataframes na maioria das operações
+-   funções *sf* podem ser combinadas usando o operador `%>%` e funcionam no formato tidyverse
+-   funções *sf* são consistentes e intuitivas (quase sempre começam com prefixo `st_`)
+
+Os tipos de geometrias apresentadas são representadas por diferentes classes: `POINT`, `LINESTRING` e `POLYGON` para apenas uma feição de cada tipo de geometria; `MULTIPOINT`, `MULTILINESTRING` e `MULTIPOLYGON` para várias feições de cada tipo de geometria e; `GEOMETRYCOLLECTION` para várias feições e tipos de geometrias (Figura \@ref(fig:fig-vetor-sf-classes)).
+
+```{r fig-vetor-sf-classes, fig.align='center', fig.cap="Tipos de classes suportadas pelo pacote *sf*. Fonte: Lovelace, Nowosad & Muenchow (2019).", out.width="50%", echo=FALSE}
+include_graphics("img/sf-classes.png")
+```
+
+O pacote *sf* define um sistema de três classes hierárquicas (Tabela \@ref(tab:tab-vetor-sf-estruturas)):
+
+-   Classe *sfg* - uma geometria única
+-   Classe *sfc* - uma coluna de geometria, que é um conjunto de geometrias *sfg* e informações Sistema de Referência de Coordenadas (do inglês *Coordinate Reference Systems- CRS*)
+-   Classe *sf* - uma camada, que é uma coluna de geometria *sfc* dentro de um dataframe com atributos não espaciais
+
+```{r sf-estruturas, echo=FALSE}
+kable(tibble(Classes = c("`sfg`", "`sfc`", "*sf*"), 
+             Hierarquia = c("Geometria", "Coluna de geometria", "Camada"),
+             Informação = c("Tipo e coordenadas", "Conjundo de `sfg` + CRS", "`sfc` + atributos")), 
+      caption = "Estruturas de dados espaciais no pacote sf. Fonte: [Dorman (2021)](https://michaeldorman.github.io/R-Spatial-Workshop-at-CBS-2021/main.html).")
+```
+
+Ao olharmos as informações de um objeto da classe *sf*, podemos notar diversas informações que descrevem o mesmo:
+
+-   *resumo do vetor*: indica o número de feições (linhas) e campos (colunas)
+-   *tipo da geometria*: umas das sete classes listadas anteriormente (Figura \@ref(fig:fig-vetor-sf-classes))
+-   *dimensão*: número de dimensões, geralmente duas (XY)
+-   *bbox (bordas)*: coordenadas mínimas e máximas da longitude e latitude
+-   *informação do CRS*: `epsg` ou `proj4string` indicando o CRS
+-   *tibble*: tabela de atributos, com destaque para a coluna `geom` ou `geometry` que representa cada feição ou geometria
+
+```{r}
+countries110
+```
+
+Podemos fazer um mapa simples utilizando a função `plot()` desse objeto. Para facilitar, escolheremos apenas a primeira coluna `[1]` (Figura \@ref(fig:fig-vetor-mundo)).
+
+> IMPORTANTE: faremos mapas mais elaborados na seção xx desse capítulo.
+
+```{r fig-vetor-mundo, fig.align='center', out.width="100%", fig.cap="Mapa vetorial do mundo."}
+plot(countries110[1], col = viridis::viridis(100), main = "Mapa do mundo")
+```
+
+### *raster*: principal pacote no R para dados raster
+
+Atualmente, o principal pacote para trabalhar com dados raster é o [*raster*](https://rspatial.org/raster/index.html) (Hijmans 2020), apesar de existir outros dois em desenvolvimento e já sendo aplicados, como o [*terra*](https://rspatial.org/terra/index.html) e o [*stars*](https://r-spatial.github.io/stars/). O pacote *raster* fornece uma ampla gama de funções para criar, importar, exportar, manipular e processar dados raster no R. O objeto raster pode assumir três classes no R: `RasterLayer`, `RasterStack` e `RasterBrick`.
+
+A classe `RasterLayer` representa apenas uma camada raster. Para criar um raster no R podemos utilizar a função `raster::raster()`. Observando essa classe, podemos notar as seguintes informações:
+
+-   *class*: classe raster do objeto raster
+-   *dimensions*: número de linhas, colunas e células
+-   *resolution*: largura e altura da célula
+-   *extent*: coordenadas mínimas e máximas da longitude e latitude
+-   *crs*: Sistema de Referência de Coordenadas (*CRS*)
+-   *source*: fonte dos dados (memória ou disco)
+-   *names*: nome das camadas
+-   *values*: valores máximos e mínimos das células
+
+```{r}
+raster_layer <- raster::raster(nrows = 5, ncols = 5, 
+                               res = .5,
+                               xmn = -61.5, xmx = -59, ymn = -14.5, ymx = -12,
+                               vals = sample(1:25, 25, rep = TRUE))
+raster_layer
+```
+
+Um mapa simples do objeto raster pode ser obtido utilizando a função `plot()`, do próprio pacote *raster* (Figura \@ref(fig:fig-raster-layer)).
+
+```{r fig-raster-layer, fig.align='center', fig.cap="Mapa simples de um `RasterLayer`."}
+plot(raster_layer, col = viridis::viridis(n = 25))
+```
+
+Além da classe `RasterLayer`, há mais duas classes que trabalham com múltiplas camadas: `RasterBrick` e `RasterStack`. Elas diferem em relação ao número de formatos de arquivo suportados, tipo de representação interna e velocidade de processamento.
+
+A classe `RasterBrick` geralmente corresponde a importação de um único arquivo de imagem de satélite multiespectral (multicamadas) ou a um único objeto com várias camadas na memória. A função `raster::brick()` cria um objeto `RasterBrick`.
+
+```{r}
+raster_layer1 <- raster_layer
+raster_layer2 <- raster_layer * raster_layer
+raster_layer3 <- sqrt(raster_layer)
+raster_layer4 <- log10(raster_layer)
+
+raster_brick <- raster::brick(raster_layer1, raster_layer2, raster_layer3, raster_layer4)
+raster_brick
+```
+
+Ao utilizarmos a função `plot()` do pacote *raster*, podemos visualizar todos os raster contidos no objeto `RasterBrick` (Figura \@ref(fig:fig-raster-brick)).
+
+```{r fig-raster-brick, fig.align='center', fig.cap="Mapas simples de um raster RasterBrick."}
+plot(raster_brick, col = viridis::viridis(n = 25))
+```
+
+Já a classe `RasterStack` permite conectar vários objetos raster armazenados em arquivos diferentes ou vários objetos na memória. Um `RasterStack` é uma lista de objetos `RasterLayer` com a mesma extensão, resolução e CRS. Uma maneira de criá-lo é com a junção de vários objetos espaciais já existentes no ambiente do R ou listar vários arquivos raster em um diretório armazenado no disco. A função `raster::stack()` cria um objeto `RasterStack`.
+
+Outra diferença é que o tempo de processamento para objetos `RasterBrick` geralmente é menor do que para objetos `RasterStack`. A decisão sobre qual classe `Raster` deve ser usada depende principalmente do caráter dos dados de entrada.
+
+```{r}
+raster_layer1 <- raster_layer
+raster_layer2 <- raster_layer * raster_layer
+raster_layer3 <- sqrt(raster_layer)
+raster_layer4 <- log10(raster_layer)
+
+raster_stack <- raster::stack(raster_layer1, raster_layer2, raster_layer3, raster_layer4)
+raster_stack
+```
+
+Da mesma forma, ao utilizar a função `plot()` do pacote *raster*, podemos visualizar todos os raster contidos no objeto `RasterStack` (Figura \@ref(fig:fig-raster-stack)).
+
+```{r fig-raster-stack, fig.align='center', fig.cap="Mapas simples de um raster RasterStack."}
+plot(raster_stack, col = viridis::viridis(n = 25))
+```
