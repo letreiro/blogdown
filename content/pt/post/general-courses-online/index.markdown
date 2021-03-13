@@ -73,6 +73,10 @@ Este é um post colaborativo, ficarei feliz demais em receber ajuda para aumenta
 
 - [Regressão Linear](https://www.youtube.com/channel/UCwVcL3wtVJNmgFZdNickiqw)
 
+## Profa. Luara Tourinho
+
+- [SIG para estudos de biodiversidade e conservação](https://youtube.com/playlist?list=PLo25BjoudnByh9PGT8JqqFtwf2M5w8CxU)
+
 ## Agradecimentos
 
 Como forma de agradecimento, vou listando as pessoas que contrinuíram aqui.

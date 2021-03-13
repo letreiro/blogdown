@@ -29,7 +29,7 @@ tags:
 lastmod: 
 featured: no
 image:
-  caption: "[Imagem de Maurício Vancine]"
+  caption: "Imagem de Maurício Vancine"
   focal_point: "center"
   preview_only: no
 projects: []
