@@ -32,7 +32,7 @@
     weight = 40
   [[pt.menu.main]]
     name = "Cursos"
-    url = "/workshop"
+    url = "/short-course"
     weight = 50
   [[pt.menu.main]]
     name = "Disciplinas"

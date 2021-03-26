@@ -73,9 +73,13 @@ Este é um post colaborativo, ficarei feliz demais em receber ajuda para aumenta
 
 - [Regressão Linear](https://www.youtube.com/channel/UCwVcL3wtVJNmgFZdNickiqw)
 
-## Profa. Luara Tourinho
+## Profs. Luara Tourinho (UFBA) e Prof. Bruno Vilela (UFBA)
 
 - [SIG para estudos de biodiversidade e conservação](https://youtube.com/playlist?list=PLo25BjoudnByh9PGT8JqqFtwf2M5w8CxU)
+
+## Profs. Danielle Katharine Petsch e Roger Paulo Mormul (UEM)
+
+- [PEA - Curso - R - Manipulação de Dados Ecológicos](https://www.youtube.com/playlist?list=PLukH_mmOY4zpd1B83Cuo7vhK17lhTDrw1)
 
 ## Agradecimentos
 
@@ -83,3 +87,4 @@ Como forma de agradecimento, vou listando as pessoas que contrinuíram aqui.
 
 - [Prof. Thiago Gonçalves-Souza](https://thiagocalvesouza.wixsite.com/ecoffun)
 - [Bea Milz](https://beatrizmilz.com/)
+- [Pedro Sena](https://twitter.com/pedroasena)

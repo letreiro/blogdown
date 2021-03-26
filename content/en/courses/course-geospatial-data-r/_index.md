@@ -111,15 +111,15 @@ To rotate the lines, just place the cursor on the line of code to be executed an
 
 ### Slides
 
-[0. Introductions](https://github.com/mauriciovancine/course-geospatial-data-r/01_aulas/00_pres_geospatial_data_r.html) <br>
-[1. Version control, Git and GitHub](https://github.com/mauriciovancine/course-geospatial-data-r/01_aulas/01_pres_geospatial_data_r.html) <br>
-[2. R language](https://github.com/mauriciovancine/course-geospatial-data-r/01_aulas/02_pres_geospatial_data_r.html) <br>
-[3. Data structure and manipulation](https://github.com/mauriciovancine/course-geospatial-data-r/01_aulas/03_pres_geospatial_data_r.html) <br>
-[4. Introduction to tidyverse](https://github.com/mauriciovancine/course-geospatial-data-r/01_aulas/04_pres_geospatial_data_r.html) <br>
-[5. Geospatial data source and structure](https://github.com/mauriciovancine/course-geospatial-data-r/01_aulas/05_pres_geospatial_data_r.html) <br>
-[6. Structure and manipulation of vector data](https://github.com/mauriciovancine/course-geospatial-data-r/01_aulas/06_pres_geospatial_data_r.html) <br>
-[7. Structure and manipulation of raster data](https://github.com/mauriciovancine/course-geospatial-data-r/01_aulas/07_pres_geospatial_data_r.html) <br>
-[8. Geospatial data visualization](https://github.com/mauriciovancine/course-geospatial-data-r/01_aulas/08_pres_geospatial_data_r.html)
+[0. Introductions](https://mauriciovancine.github.io/course-geospatial-data-r/01_aulas/00_pres_geospatial_data_r.html) <br>
+[1. Version control, Git and GitHub](https://mauriciovancine.github.io/course-geospatial-data-r/01_aulas/01_pres_geospatial_data_r.html) <br>
+[2. R language](https://mauriciovancine.github.io/course-geospatial-data-r/01_aulas/02_pres_geospatial_data_r.html) <br>
+[3. Data structure and manipulation](https://mauriciovancine.github.io/course-geospatial-data-r/01_aulas/03_pres_geospatial_data_r.html) <br>
+[4. Introduction to tidyverse](https://mauriciovancine.github.io/course-geospatial-data-r/01_aulas/04_pres_geospatial_data_r.html) <br>
+[5. Geospatial data source and structure](https://mauriciovancine.github.io/course-geospatial-data-r/01_aulas/05_pres_geospatial_data_r.html) <br>
+[6. Structure and manipulation of vector data](https://mauriciovancine.github.io/course-geospatial-data-r/01_aulas/06_pres_geospatial_data_r.html) <br>
+[7. Structure and manipulation of raster data](https://mauriciovancine.github.io/course-geospatial-data-r/01_aulas/07_pres_geospatial_data_r.html) <br>
+[8. Geospatial data visualization](https://mauriciovancine.github.io/course-geospatial-data-r/01_aulas/08_pres_geospatial_data_r.html)
 
 ### Scripts
 

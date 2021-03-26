@@ -18,21 +18,6 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/categories/</loc>
-    <lastmod>2021-04-02T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mauriciovancine.github.io/</loc>
     <lastmod>2021-04-02T14:00:00+00:00</lastmod>
     <xhtml:link
@@ -123,17 +108,107 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/category/talk/</loc>
-    <lastmod>2021-04-02T14:00:00+00:00</lastmod>
+    <loc>https://mauriciovancine.github.io/categories/</loc>
+    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/category/talk/"
+                href="https://mauriciovancine.github.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/category/talk/"
+                href="https://mauriciovancine.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tag/git/</loc>
+    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/git/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tag/github/</loc>
+    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/github/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/short-course/short-course-git-github-rstudio/</loc>
+    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/short-course/short-course-git-github-rstudio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/short-course/short-course-git-github-rstudio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tag/short-course/</loc>
+    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/short-course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/short-course/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/category/short-course/</loc>
+    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/category/short-course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/category/short-course/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/short-course/</loc>
+    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/short-course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/short-course/"
                 />
   </url>
   
@@ -588,6 +663,21 @@
   </url>
   
   <url>
+    <loc>https://mauriciovancine.github.io/category/talk/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/category/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/category/talk/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/author/alexandre-a.-oliveira/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -933,77 +1023,32 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology/</loc>
+    <loc>https://mauriciovancine.github.io/short-course/short-course-r-unesp-ecology/</loc>
     <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-ecology/"
+                href="https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-ecology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology/"
+                href="https://mauriciovancine.github.io/short-course/short-course-r-unesp-ecology/"
                 />
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/tag/short-course/</loc>
-    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/tag/short-course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/tag/short-course/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/category/short-course/</loc>
-    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/category/short-course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/category/short-course/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/workshop/</loc>
-    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/workshop/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/workshop/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/workshop/workshop-r-unesp-biology/</loc>
+    <loc>https://mauriciovancine.github.io/short-course/short-course-r-unesp-biology/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-biology/"
+                href="https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-biology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/workshop/workshop-r-unesp-biology/"
+                href="https://mauriciovancine.github.io/short-course/short-course-r-unesp-biology/"
                 />
   </url>
   
@@ -1128,17 +1173,17 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/workshop/workshop-sdm-cbh/</loc>
+    <loc>https://mauriciovancine.github.io/short-course/short-course-sdm-cbh/</loc>
     <lastmod>2018-07-30T02:20:01-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/workshop/workshop-sdm-cbh/"
+                href="https://mauriciovancine.github.io/pt/short-course/short-course-sdm-cbh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/workshop/workshop-sdm-cbh/"
+                href="https://mauriciovancine.github.io/short-course/short-course-sdm-cbh/"
                 />
   </url>
   

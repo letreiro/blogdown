@@ -1,0 +1,43 @@
+---
+title: "Introduction to version control with git, GitHub and RStudio"
+subtitle: Maurício Humberto Vancine
+draft: false
+event: ""
+event_url: 
+location: Recife, PE, Brazil (remote)
+summary: "Apresentar os principais conceitos sobre o controle de versão usando git, GitHub e RStudio"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2021-03-17T09:00:00Z"
+date_end: "2021-03-17T12:00:00Z"
+all_day: false
+publishdate: "2021-03-16"
+
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: "https://mauriciovancine.github.io/short-course-git-github-rstudio/slides/pres_short_course_git_github_rstudio.html"
+  
+- icon: github
+  icon_pack: fab
+  name: material
+  url: "https://github.com/mauriciovancine/short-course-git-github-rstudio"
+
+categories:
+  - short course
+tags:
+  - short course
+  - git
+  - github
+lastmod: r`Sys.Date()`
+featured: no
+image:
+  caption: "[Image by Maurício Vancine]()"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+To present the main concepts about version control using git, GitHub and RStudio.
