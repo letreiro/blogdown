@@ -66,7 +66,8 @@ kable(
                          "[Protected Planet](https://www.protectedplanet.net)", 
                          "[Global Biological Information Facility (GBIF)](http://www.gbif.org)",
                          "[Species Link](http://www.splink.cria.org.br)",
-                         "[Global Invasive Species Information Network (GISIN)](http://www.gisin.org)"),
+                         "[Global Invasive Species Information Network (GISIN)](http://www.gisin.org)",
+                         "[International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/)"),
     Descrição = c("Limites territoriais e censitários do Brasil", 
                   "Informações do IBGE sobre os municípios e estados do Brasil", 
                   "Base para disponibilização das informações sobre águas no Brasil",
@@ -93,7 +94,8 @@ kable(
                   "Limites de áreas protegidas para o mundo",
                   "Dados de ocorrências de espécies para o mundo",
                   "Dados de ocorrências de espécies para o Brasil",
-                  "Dados de ocorrências de espécies invasoras para o Mundo")
+                  "Dados de ocorrências de espécies invasoras para o mundo",
+                  "Dados de mudanças climáticas, segurança energética, envelhecimento da população e desenvolvimento sustentável")
   ), 
   caption = "Principais bases de dados vetoriais para o Brasil e o mundo.",
   booktabs = TRUE)
