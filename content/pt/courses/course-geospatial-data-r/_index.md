@@ -2,7 +2,7 @@
 title: Introdução ao uso de dados geoespaciais no R
 summary: A disciplina oferece os principais conceitos teórico-práticos do uso de dados geoespaciais no R aplicados à Ecologia
 date: 2020-10-09
-lastmod: 2021-03-08
+lastmod: 2021-04-12
 linktitle:
 menu:
   example:
@@ -42,7 +42,7 @@ A disciplina oferecerá os principais conceitos teórico-práticos do uso de dad
 
 **Datas e horários** <br>
 Teórico-prático:
-Exercícios-atividades assistidas remotamente: 26/10 – 30/10 (30 horas)
+Exercícios-atividades assistidas remotamente: 25/10 – 05/11 (30 horas)
 
 **Plano de ensino** <br> 
 [pdf](https://github.com/mauriciovancine/course-geospatial-data-r/blob/master/00_plano_ensino/plano_ensino_analise_geoespacial_r.pdf)
@@ -64,7 +64,7 @@ R, RStudio e git <br>
 - [Vídeo de instalação do R e do RStudio](https://youtu.be/l1bWvZMNMCM) <br>
 - [Curso da linguagem R](https://www.youtube.com/playlist?list=PLucm8g_ezqNq0RMHvzZ8M32xhopFhmsr6)
 
-2. Instalar o [git (2.30.x)](https://git-scm.com/downloads) <br>
+2. Instalar o [git (2.31.x)](https://git-scm.com/downloads) <br>
 - [Vídeo de instalação do git](https://youtu.be/QSfHNEiBd2k) <br>
 
 #### Linux (Ubuntu e Linux Mint)
