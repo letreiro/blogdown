@@ -32,7 +32,7 @@ Dessa forma, minha intenção com esse post é **transmitir esses conceitos de f
 
 ## Sistema de Referência de Coordenadas
 
-Os dados geoespaciais (vetor e raster, explicados com detalhes neste [post](https://mauriciovancine.github.io/pt/post/geo-geospatial-data)), possuem um componente fundamental, que é o **Sistema de Referência de Coordenadas** ou do inglês *Coordinate Reference System (CRS)*. Esse componente define como os elementos espaciais (vetor e raster) representam uma feição na superfície da Terra.
+Os dados geoespaciais (vetor e raster, explicados com detalhes neste [post](https://mauriciovancine.github.io/pt/post/geo-geospatial-data)), possuem um componente fundamental, que é o **Sistema de Referência de Coordenadas** ou do inglês *Coordinate Reference System (CRS)*, que define esses dados representam uma feição na superfície da Terra.
 
 O Sistema de Referência de Coordenadas é composto de **quatro componentes**:
 
@@ -41,9 +41,9 @@ O Sistema de Referência de Coordenadas é composto de **quatro componentes**:
 1. **Datum**: versão modelada da forma da Terra que define a origem usada para localizar o sistema de coordenadas no planeta
 1. **Informações de projeção**: equação matemática usada para nivelar objetos que estão em uma superfície redonda para visualização em uma superfície plana
 
-O **Sistema de coordenadas** é defido com base nas **Unidades horizontais e verticais** que estão sendo utilizadas para a representação geográfica, podendo assumir dois tipos: **ângulos** para **Sistema de Coordenadas Geográficas** e **metros** para **Sistema de Coordenadas Projetadas**. 
+O **Sistema de coordenadas** é classificado com base nas **Unidades horizontais e verticais** que estão sendo utilizadas para a representação geográfica, podendo assumir dois tipos: **ângulos** para **Sistema de Coordenadas Geográficas** e **metros** para **Sistema de Coordenadas Projetadas**. 
 
-Outro componente é o **datum**, que é a **relação** desses sistemas de coordenadas com a superfície da Terra. O Datum faz parte de uma área da **Cartografia** denominada **Geodésia** que estuda a forma e dimensões da Terra, campo gravitacional e a localização de pontos fixos e sistemas de coordenadas.
+Outro componente é o **datum**, que é a **relação** desses sistemas de coordenadas com a superfície da Terra. O datum faz parte de uma área da **Cartografia** denominada **Geodésia** que estuda a forma e dimensões da Terra, campo gravitacional e a localização de pontos fixos e sistemas de coordenadas.
 
 Por fim, as **Informações de projeção** que são equações matemáticas constituídas com base nas informações anteriores permite a representação e cálculos de propriedades das feições representadas nos mapas. Esse tópico não abordaremos aqui por estarem fora da minha alçada... Muito senos, cossenos, dericadas e integrais... Melhor deixar para os geofísicos e engenheiros cartográficos...
 
