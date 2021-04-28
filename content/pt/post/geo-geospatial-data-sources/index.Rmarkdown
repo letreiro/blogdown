@@ -31,6 +31,8 @@ Entretanto, é sempre recomendado o uso de **bases oficiais**, principalmente em
 
 Há uma compilação de dados geográficos vetoriais e raster feita por Marcus Vinícius Alves de Carvalho e Angelica Carvalho Di Maio, chamada [GeoLISTA](http://www.clickgeo.com.br/wp-content/uploads/2018/05/GeoLISTA.pdf). Entretanto, como as bases de dados tendem a ser muito dinâmicas, é possível que muitas bases tenham surgido e desaparecido desde a listagem realizada.
 
+Atualmente encontrei outra compilação fantástica: [Free GIS Data](http://freegisdata.rtwilson.com/#home).
+
 Além das bases de dados, há pacotes específicos no R que fazem o download de dados vetoriais e rasters facilitando a aquisição e reprodutibilidade. Para conferir uma listagem completa de pacotes para diversas análises espaciais, veja [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html).
 
 ### Vetor
