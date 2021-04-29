@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>landscape ecology | Maurício Vancine</title>
+    <link>https://mauriciovancine.github.io/tag/landscape-ecology/</link>
+      <atom:link href="https://mauriciovancine.github.io/tag/landscape-ecology/index.xml" rel="self" type="application/rss+xml" />
+    <description>landscape ecology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Maurício Vancine 2021</copyright><lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>landscape ecology</title>
+      <link>https://mauriciovancine.github.io/tag/landscape-ecology/</link>
+    </image>
+    
+    <item>
+      <title>Landscape metrics in R</title>
+      <link>https://mauriciovancine.github.io/video/landscape-metrics/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/video/landscape-metrics/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RCTrLx_33D8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In this video, at the invitation of &lt;a href=&#34;https://twitter.com/FelipeSMBarros&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Felipe Sodré&lt;/a&gt;, from the channel &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoCast Brasil&lt;/a&gt;, I did a rather long live , where I talked about Landscape Ecology and some of the main concepts linked to this discipline, and a practical part about the calculation of landscape metrics using the R language, more specifically using the [&lt;em&gt;landscapemetrics&lt;/em&gt;](https: // r- spatialecology.github.io/landscapemetrics/) package. The presentation and codes can be accessed in this &lt;a href=&#34;https://gitlab.com/geocastbrasil/landscapemetrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitLab repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

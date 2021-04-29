@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>courses | Maurício Vancine</title>
+    <link>https://mauriciovancine.github.io/pt/tag/courses/</link>
+      <atom:link href="https://mauriciovancine.github.io/pt/tag/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Maurício Vancine 2021</copyright><lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>courses</title>
+      <link>https://mauriciovancine.github.io/pt/tag/courses/</link>
+    </image>
+    
+    <item>
+      <title>Disciplinas de graduação e pós-graduação on-line</title>
+      <link>https://mauriciovancine.github.io/pt/post/general-courses-online/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/post/general-courses-online/</guid>
+      <description>&lt;h2 id=&#34;contextualização&#34;&gt;Contextualização&lt;/h2&gt;
+&lt;p&gt;A pandemia de COVID-19 iniciou-se com o primeiro caso no Brasil no dia &lt;strong&gt;26 de fevereiro de 2020&lt;/strong&gt;. Desde de então, acredito que todo professor(a), seja ele(a) de qualquer nível, do maternal a pós-graduação, se viu em meio à necessidade de &lt;strong&gt;ministrar aulas remotamente&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Ano passado tive o prazer de oferecer duas disciplinas remotamente: uma na graduação em Ecologia (&amp;ldquo;Modelos Estatísticos em Ecologia&amp;rdquo;) e outra na Pós-Graduação em Ecologia, Evolução e Biodiversidade (&lt;a href=&#34;https://mauriciovancine.github.io/pt/courses/course-geospatial-analisys-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Introdução ao uso de dados geoespaciais no R&amp;rdquo;&lt;/a&gt;), ambas na UNESP-Rio Claro. A UNESP fez um plano emergencial de adotar todas as ferramentas do &lt;a href=&#34;https://classroom.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Classroom&lt;/a&gt;, como acredito que grande parte das universidades e escolas adotaram.&lt;/p&gt;
+&lt;p&gt;Infelizmente, apesar de eu ter gravado ambas para repassar aos alunos, não pensei como seria uma oportunidade fantástica para manter esse material permanente e disponível à qualquer pessoa no YouTube, pode exemplo. Para isso, eu teria de editar horas e mais horas de vídeos, e não disponho desse tempo para isso, não pelo menos agora&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Entretanto, desde o início do ano passado, comecei a fazer parte do canal no YouTube &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GeoCast Brasil&lt;/a&gt;. Eu e o &lt;a href=&#34;https://felipesbarros.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Felipe Sodré Mendes Barros&lt;/a&gt; fizemos diversas lives de R focando na parte espacial, &lt;a href=&#34;https://mauriciovancine.github.io/pt/video/werlive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;We R Live&lt;/a&gt;, com vários convidados e convidadas muito legais. Esse ano está complicado de retomarmos por conta de vários projetos, doutorado e trabalho&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Desse projeto nasceu um resumo muito legal que publicamos no &lt;a href=&#34;https://inde.gov.br/simposio-12-anos/sbide-home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;II Simpósio Brasileiro de Infraestrutura de Dados Espaciais - SBIDE&lt;/a&gt;, entitulado &lt;strong&gt;Ensino e gestão do conhecimento em geotecnologias para um “Novo Normal”: reflexões a partir das iniciativas do GeoCast Brasil&lt;/strong&gt;, onde comentamos os desafios de ensino remoto e como as liver de R foram desafiadoras e nos fizeram pensar em formas alternativas de ensino. Deixo a &lt;a href=&#34;https://mauriciovancine.github.io/slides/talk-sbide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;apresentação&lt;/a&gt; e &lt;a href=&#34;https://mauriciovancine.github.io/pdf/2021-anais-sbide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;resumo&lt;/a&gt; disponíveis para quem quiser passar os olhos.&lt;/p&gt;
+&lt;p&gt;Já que não pensei em como deixar minhas aulas disponíveis, mas sei de professores(as) mais organizados(as) que eu, o intuito desse post é justamente listar disciplinas de graduação e pós-graduação, disponibilizadas de forma remota e aberta no YouTube.&lt;/p&gt;
+&lt;p&gt;Este é um post colaborativo, ficarei feliz demais em receber ajuda para aumentar essa listagem.&lt;/p&gt;
+&lt;h2 id=&#34;prof-alexandre-adalardo-de-oliveira-usp&#34;&gt;Prof. Alexandre Adalardo de Oliveira (USP)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLg7_KQP14uSF8SRTbha-ezqu4lH-ATxb3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EcoR: Introdução à Linguagem R&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLg7_KQP14uSGMKE9bmnVINkB4TXMdv0XO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PlAnEco: Planejamento e Análise de dados em Ecologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-bruno-vilela-ufba&#34;&gt;Prof. Bruno Vilela (UFBA)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PL3U7PUKvYnzAZAEoFcjGLVkIML2ZGGl6t&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curso de Programação em R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-pavel-dodonov-ufba&#34;&gt;Prof. Pavel Dodonov (UFBA)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL3U7PUKvYnzCiT8rb3Tv25R-dZo6YYzut&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estatística Aplicada à Ecologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL3U7PUKvYnzAtEU1znfx2MQTjirVVCs0Z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estatística Aplicada à Biologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PL3U7PUKvYnzDPjJYBEzwVBqiQHcKYAiOd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecologia Espacial&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-diogo-borges-provete-ufms&#34;&gt;Prof. Diogo Borges Provete (UFMS)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLy2rjqiD2VP6p7RNCZ7lGU4j3CqjJDuWX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linguagem de Programação Estatística para Biologia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLy2rjqiD2VP5G6pqMo_QlWo7I3yu-uFTk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Análises Multidimensionais&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-kleber-del-claro-ufu&#34;&gt;Prof. Kleber Del Claro (UFU)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL2T3g_8Bm49S-ATCZQ118JnjXjoIG_r1Z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecologia Geral&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PL2T3g_8Bm49TbMxbXnC2u0qmO5CHPahH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecologia Comportamental&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-thiago-rangel-ufg&#34;&gt;Prof. Thiago Rangel (UFG)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://estat.bio.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curso de Estatistica para Pesquisa Científica&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prof-walmes-zeviani-ufpr&#34;&gt;Prof. Walmes Zeviani (UFPR)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCwVcL3wtVJNmgFZdNickiqw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Regressão Linear&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;profs-luara-tourinho-ufba-e-prof-bruno-vilela-ufba&#34;&gt;Profs. Luara Tourinho (UFBA) e Prof. Bruno Vilela (UFBA)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLo25BjoudnByh9PGT8JqqFtwf2M5w8CxU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIG para estudos de biodiversidade e conservação&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;profs-danielle-katharine-petsch-e-roger-paulo-mormul-uem&#34;&gt;Profs. Danielle Katharine Petsch e Roger Paulo Mormul (UEM)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLukH_mmOY4zpd1B83Cuo7vhK17lhTDrw1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PEA - Curso - R - Manipulação de Dados Ecológicos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;agradecimentos&#34;&gt;Agradecimentos&lt;/h2&gt;
+&lt;p&gt;Como forma de agradecimento, vou listando as pessoas que contrinuíram aqui.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://thiagocalvesouza.wixsite.com/ecoffun&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Thiago Gonçalves-Souza&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://beatrizmilz.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bea Milz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/pedroasena&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pedro Sena&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
