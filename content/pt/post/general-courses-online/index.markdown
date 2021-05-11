@@ -81,6 +81,14 @@ Este é um post colaborativo, ficarei feliz demais em receber ajuda para aumenta
 
 - [PEA - Curso - R - Manipulação de Dados Ecológicos](https://www.youtube.com/playlist?list=PLukH_mmOY4zpd1B83Cuo7vhK17lhTDrw1)
 
+## Prof. Eduardo Santos (USP)
+
+- [Meta-análise em Ecologia e Evolução](https://www.youtube.com/playlist?list=PL0kdakqHgSlb5wRkeqM3Vr6R9Db2LFXIt)
+
+## Prof. Carlos H. Grohmann (USP)
+
+- [Introdução ao SIG com Software Livre](https://www.youtube.com/playlist?list=PL9GztlLGb7RpQbw2_W9MxVdBfDtPKSy-G)
+
 ## Agradecimentos
 
 Como forma de agradecimento, vou listando as pessoas que contrinuíram aqui.
