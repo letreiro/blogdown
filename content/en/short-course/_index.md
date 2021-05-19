@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: "Workshops"
+title: "Short Courses"
 view: 2
 ---
