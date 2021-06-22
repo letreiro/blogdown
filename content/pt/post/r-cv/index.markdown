@@ -1,17 +1,17 @@
 ---
-title: "renv: ambientes reprodutivos no R"
+title: "CVs no R"
 author: mauriciovancine
-date: "2021-06-20"
+date: "2021-12-20"
 slug: []
 categories: [r, geospatial, tutorial]
 tags: [r, rstats, rspatial, geocomputation]
 subtitle: ""
-summary: "Um guia para começar o pacote renv"
+summary: "Um guia para criar CVs no R"
 authors: []
 lastmod: r`Sys.time()`
 featured: no
 image: 
-  caption: "[renv logo](https://rstudio.github.io/renv/index.html)"
+  caption: "[vitae logo](https://pkg.mitchelloharawild.com/vitae/)"
   focal_point: "center"
   preview_only: no
 projects: []

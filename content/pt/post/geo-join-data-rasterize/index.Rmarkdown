@@ -1,12 +1,12 @@
 ---
-title: Gerando rasters de dados socio-econômicos
+title: Gerando rasters de dados socioeconômicos
 author: mauriciovancine
 date: "2021-03-23"
 slug: []
 categories: [spatial,rspatial]
 tags: [spatial,rspatial]
 subtitle: ""
-summary: "Um passo a passo para gerar rasters de dados socio-econômicos para municípios do Brasil"
+summary: "Um passo a passo para gerar rasters de dados socioeconômicos para municípios do Brasil"
 authors: []
 lastmod: r`Sys.time()`
 featured: no
@@ -30,11 +30,11 @@ library(tmap)
 
 ## Contextualização
 
-Faz um tempo que interajo com o povo da Universidade Federal Rural de Pernambuco (UFRPE) de Recife, mas especificamente do Lab. [ECOFFUN](https://thiagocalvesouza.wixsite.com/ecoffun) do Prof. Thiago Gonçalves-Souza, também conhecido como Toyoyo. 
+Faz um tempo que interajo com o povo da Universidade Federal Rural de Pernambuco (UFRPE) de Recife, mas especificamente do Lab. [ECOFFUN](https://thiagocalvesouza.wixsite.com/ecoffun) do Prof. Thiago Gonçalves-Souza, também conhecido como Toyoyo.
 
-Mais recentemente um dos seus alunos, o Arthur, que inclusive revisou esse post, comentou que precisava de variáveis socio-econômicas para usar em Modelos de Distribuição de Espécies para modelar doenças no Brasil, um projeto super interessante. Bem, como preparei um script para isso, resolvi escrever um post do passo a passo de como estruturamos.
+Mais recentemente um dos seus alunos, o Arthur, que inclusive revisou esse post, comentou que precisava de variáveis socioeconômicas para usar em Modelos de Distribuição de Espécies para modelar doenças no Brasil, um projeto superinteressante. Bem, como preparei um script para isso, resolvi escrever um post do passo a passo de como estruturamos.
 
-A ideia aqui será baixar dados sócio-econômicos do [**Sistema IBGE de Recuperação Automática - SIDRA**](https://sidra.ibge.gov.br), fazer a associação para os polígonos dos municípios e depois rasterizar com base em uma variável do WorldClim.
+A ideia aqui será baixar dados sócioeconômicos do [**Sistema IBGE de Recuperação Automática - SIDRA**](https://sidra.ibge.gov.br), fazer a associação para os polígonos dos municípios e depois rasterizar com base em uma variável do WorldClim.
 
 Para fazer esses passos, vamos precisar desses pacotes.
 
@@ -52,9 +52,9 @@ library(tmap)
 
 Primeiramente, vamos usar o pacote [*sidrar*](https://cran.r-project.org/web/packages/sidrar/index.html), que é uma interface para o API do SIDRA. Esse pacote possui três funções:
 
-1. `sidrar::search_sidra()`: pesquisa tabelas do SIDRA com determinado(s) termo(s)
-1. `sidrar::info_sidra()`: lista as variáveis de uma tabela do SIDRA
-1. `sidrar::get_sidra()`: faz o download de uma tabela do SIDRA
+1.  `sidrar::search_sidra()`: pesquisa tabelas do SIDRA com determinado(s) termo(s)
+2.  `sidrar::info_sidra()`: lista as variáveis de uma tabela do SIDRA
+3.  `sidrar::get_sidra()`: faz o download de uma tabela do SIDRA
 
 O banco de dados do SIDRA é absurdamente enorme. Aqui vou explorar apenas uma tabela, mas existem muitas possibilidades para explorar.
 
@@ -114,7 +114,7 @@ dplyr::glimpse(da_lixo)
 dplyr::glimpse(da_luz)
 ```
 
-Para facilitar nossa vida com as variáveis, fiz alguns filtros, transformei os dados, selecionei colunas e renomei outras para que a associação com os municípios fosse mais simples. No final, combinei as colunas para simplificar os dados em um único `tibble`.
+Para facilitar nossa vida com as variáveis, fiz alguns filtros, transformei os dados, selecionei colunas e renomeei outras para que a associação com os municípios fosse mais simples. No final, combinei as colunas para simplificar os dados em um único `tibble`.
 
 ```{r}
 # filter and selection
