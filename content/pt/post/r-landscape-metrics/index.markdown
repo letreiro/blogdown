@@ -1,7 +1,7 @@
 ---
 title: "Cálculo de métricas de paisagem no R"
 author: mauriciovancine
-date: "2021-12-07"
+date: "2022-12-20"
 slug: []
 categories: [r,tutorial]
 tags: [r,rstats,rspatial,landscape ecology]
@@ -20,3 +20,5 @@ projects: []
 Escrevendo...
 
 https://nowosad.github.io/post/lsm-bp1/
+
+https://connectscape.github.io/Makurhini/

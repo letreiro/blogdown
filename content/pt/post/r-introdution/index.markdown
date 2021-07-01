@@ -1,7 +1,7 @@
 ---
 title: "Como e onde começar a estudar R"
 author: mauriciovancine
-date: "2021-12-20"
+date: "2022-12-20"
 slug: []
 categories: [r, tutorial]
 tags: [r, rstats]

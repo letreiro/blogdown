@@ -1,7 +1,7 @@
 ---
 title: "tidyverse: outra forma de usar o R"
 author: mauriciovancine
-date: "2021-12-07"
+date: "2022-12-20"
 slug: []
 categories: [r,tidyverse]
 tags: [r,tidyverse]

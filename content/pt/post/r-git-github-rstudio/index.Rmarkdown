@@ -1,7 +1,7 @@
 ---
 title: "Controle de versão no R: git, GitHub e RStudio"
 author: mauriciovancine
-date: "2022-03-17"
+date: "2022-12-20"
 slug: []
 categories: [git]
 tags: [git]

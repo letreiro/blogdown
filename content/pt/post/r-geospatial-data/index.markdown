@@ -1,7 +1,7 @@
 ---
 title: "Dados geoespaicias no R"
 author: mauriciovancine
-date: "2021-06-20"
+date: "2022-12-20"
 slug: []
 categories: [r, spatial, tutorial]
 tags: [r, rstats, rspatial]
@@ -131,7 +131,7 @@ raster_layer
 ## crs        : +proj=longlat +datum=WGS84 +no_defs 
 ## source     : memory
 ## names      : layer 
-## values     : 1, 22  (min, max)
+## values     : 1, 25  (min, max)
 ```
 
 Um mapa simples do objeto raster pode ser obtido utilizando a função `plot()`, do próprio pacote *raster* (Figura <a href="#fig:fig-raster-layer">3</a>).
@@ -168,9 +168,9 @@ raster_brick
 ## extent     : -61.5, -59, -14.5, -12  (xmin, xmax, ymin, ymax)
 ## crs        : +proj=longlat +datum=WGS84 +no_defs 
 ## source     : memory
-## names      :    layer.1,    layer.2,    layer.3,    layer.4 
-## min values :          1,          1,          1,          0 
-## max values :  22.000000, 484.000000,   4.690416,   1.342423
+## names      :   layer.1,   layer.2,   layer.3,   layer.4 
+## min values :         1,         1,         1,         0 
+## max values :  25.00000, 625.00000,   5.00000,   1.39794
 ```
 
 Ao utilizarmos a função `plot()` do pacote *raster*, podemos visualizar todos os raster contidos no objeto `RasterBrick` (Figura <a href="#fig:fig-raster-brick">4</a>).
@@ -206,9 +206,9 @@ raster_stack
 ## resolution : 0.5, 0.5  (x, y)
 ## extent     : -61.5, -59, -14.5, -12  (xmin, xmax, ymin, ymax)
 ## crs        : +proj=longlat +datum=WGS84 +no_defs 
-## names      :    layer.1,    layer.2,    layer.3,    layer.4 
-## min values :          1,          1,          1,          0 
-## max values :  22.000000, 484.000000,   4.690416,   1.342423
+## names      :   layer.1,   layer.2,   layer.3,   layer.4 
+## min values :         1,         1,         1,         0 
+## max values :  25.00000, 625.00000,   5.00000,   1.39794
 ```
 
 Da mesma forma, ao utilizar a função `plot()` do pacote *raster*, podemos visualizar todos os raster contidos no objeto `RasterStack` (Figura <a href="#fig:fig-raster-stack">5</a>).

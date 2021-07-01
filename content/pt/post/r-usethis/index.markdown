@@ -1,7 +1,7 @@
 ---
 title: "usethis: um pacote para gerir projetos"
 author: mauriciovancine
-date: "2021-12-07"
+date: "2022-12-20"
 slug: []
 categories: [tutorial]
 tags: [tutorial]

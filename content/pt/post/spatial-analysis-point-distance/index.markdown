@@ -1,7 +1,7 @@
 ---
 title: "Calculando distâncias de pontos no R"
 author: mauriciovancine
-date: "2021-12-21"
+date: "2022-12-20"
 slug: []
 categories: []
 tags: []

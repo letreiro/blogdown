@@ -1,7 +1,7 @@
 ---
 title: "Introdução ao GRASS GIS"
 author: mauriciovancine
-date: "2021-06-20"
+date: "2022-01-20"
 slug: []
 categories: [grass, tutorial]
 tags: [python, grass]

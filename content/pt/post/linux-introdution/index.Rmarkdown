@@ -1,7 +1,7 @@
 ---
 title: "Linux: uma outra forma de usar seu computador"
 author: mauriciovancine
-date: "2021-06-20"
+date: "2022-12-20"
 slug: []
 categories: [linux, open source]
 tags: [linux]

@@ -1,7 +1,7 @@
 ---
 title: "Paralelização no R"
 author: mauriciovancine
-date: "2021-06-20"
+date: "2022-12-20"
 slug: []
 categories: [r, tutorial]
 tags: [r, rstats, parallel]

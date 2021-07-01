@@ -1,0 +1,22 @@
+---
+title: "pandas: manejar dados no python"
+author: mauriciovancine
+date: "2022-12-20"
+slug: []
+categories: [python, code]
+tags: [python]
+subtitle: ""
+summary: "Biblioteca para manejo de dados tabulares no python"
+authors: []
+lastmod: r`Sys.time()`
+featured: no
+image: 
+  caption: "[Python logo](https://www.python.org/community/logos/)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+Escrevendo...
+
+https://towardsdatascience.com/how-to-master-pandas-for-data-science-b8ab0a9b1042

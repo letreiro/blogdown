@@ -1,7 +1,7 @@
 ---
 title: "Python: uma segunda linguagem de programação"
 author: mauriciovancine
-date: "2021-09-20"
+date: "2022-12-20"
 slug: []
 categories: [python, code]
 tags: [python]

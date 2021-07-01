@@ -1,7 +1,7 @@
 ---
 title: "Dados geoespaicias no Python"
 author: mauriciovancine
-date: "2021-08-20"
+date: "2022-12-20"
 slug: []
 categories: [python]
 tags: [python]

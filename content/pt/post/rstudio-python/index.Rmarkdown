@@ -1,7 +1,7 @@
 ---
 title: "Como rodar python no RStudio"
 author: mauriciovancine
-date: "2021-12-07"
+date: "2022-12-20"
 slug: []
 categories: [python,r,programming]
 tags: [pythonr,r]

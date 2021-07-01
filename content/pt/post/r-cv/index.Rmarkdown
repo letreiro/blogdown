@@ -1,7 +1,7 @@
 ---
 title: "CVs no R"
 author: mauriciovancine
-date: "2021-12-20"
+date: "2022-12-20"
 slug: []
 categories: [r, geospatial, tutorial]
 tags: [r, rstats, rspatial, geocomputation]
