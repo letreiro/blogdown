@@ -297,11 +297,11 @@ raster::writeRaster(x = mun_raster,
     
     <item>
       <title>Introdução ao controle de versão com git, GitHub e RStudio</title>
-      <link>https://mauriciovancine.github.io/pt/short-course/short-course-git-github-rstudio/</link>
+      <link>https://mauriciovancine.github.io/pt/short-course/short-course-git-github-rstudio-2021/</link>
       <pubDate>Wed, 17 Mar 2021 09:00:00 +0000</pubDate>
-      <guid>https://mauriciovancine.github.io/pt/short-course/short-course-git-github-rstudio/</guid>
+      <guid>https://mauriciovancine.github.io/pt/short-course/short-course-git-github-rstudio-2021/</guid>
       <description>
-&lt;script src=&#34;https://mauriciovancine.github.io/pt/short-course/short-course-git-github-rstudio/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/short-course/short-course-git-github-rstudio-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Apresentar os principais conceitos sobre o controle de versão usando git, GitHub e RStudio.&lt;/p&gt;
@@ -1093,11 +1093,11 @@ Figura 10: Site epsg.io com códigos EPSG. Fonte: epsg.io.
     
     <item>
       <title>Introdução à linguagem R: manipulação e visualização de dados</title>
-      <link>https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-ecology/</link>
+      <link>https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-ecology-2019/</link>
       <pubDate>Wed, 06 Nov 2019 08:00:00 +0000</pubDate>
-      <guid>https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-ecology/</guid>
+      <guid>https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-ecology-2019/</guid>
       <description>
-&lt;script src=&#34;https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-ecology/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-ecology-2019/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;A linguagem R vem se destacando nos últimos anos (desde de 2000), como a principal ferramenta para manejo, visualização e análise de dados, principalmente na área de Ecologia, Psicologia, Economia, e mais recentemente, na Ciência de Dados. Neste curso serão abordados quatro temas introdutórios dessa linguagem: (i) introdução e funcionamento da linguagem R e do software RStudio, (ii) estrutura e manipulação de dados, (iii) introdução ao tidyverse, e (iv) visualização de dados. A carga horária será de aproximadamente 08 horas, onde será focada a parte teórico-prática, intercalada com a realização de exercícios para fixação do conteúdo. Ao final do curso, espera-se que os participantes tenham uma noção geral do funcionamento da linguagem e das potenciais aplicações dentro da área de análise de dados ecológicos.&lt;/p&gt;
@@ -1106,11 +1106,11 @@ Figura 10: Site epsg.io com códigos EPSG. Fonte: epsg.io.
     
     <item>
       <title>Introdução à linguagem R: manipulação e visualização de dados</title>
-      <link>https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-biology/</link>
+      <link>https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-biology-2019/</link>
       <pubDate>Wed, 23 Oct 2019 14:00:00 +0000</pubDate>
-      <guid>https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-biology/</guid>
+      <guid>https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-biology-2019/</guid>
       <description>
-&lt;script src=&#34;https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-biology/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-biology-2019/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;A linguagem R vem se destacando nos últimos anos (desde de 2000), como a principal ferramenta para manejo, visualização e análise de dados, principalmente na área de Ecologia, Psicologia, Economia, e mais recentemente, na Ciência de Dados. Neste curso serão abordados quatro temas introdutórios dessa linguagem: (i) introdução e funcionamento da linguagem R e do software RStudio, (ii) estrutura e manipulação de dados, (iii) introdução ao tidyverse, e (iv) visualização de dados. A carga horária será de aproximadamente 08 horas, onde será focada a parte teórico-prática, intercalada com a realização de exercícios para fixação do conteúdo. Ao final do curso, espera-se que os participantes tenham uma noção geral do funcionamento da linguagem e das potenciais aplicações dentro da área de análise de dados ecológicos.&lt;/p&gt;
@@ -1127,11 +1127,11 @@ Figura 10: Site epsg.io com códigos EPSG. Fonte: epsg.io.
     
     <item>
       <title>Introdução à modelagem de distribuição de espécies usando a linguagem R: teoria e prática</title>
-      <link>https://mauriciovancine.github.io/pt/short-course/short-course-sdm-cbh/</link>
+      <link>https://mauriciovancine.github.io/pt/short-course/short-course-sdm-cbh-2019/</link>
       <pubDate>Mon, 22 Jul 2019 08:00:00 +0000</pubDate>
-      <guid>https://mauriciovancine.github.io/pt/short-course/short-course-sdm-cbh/</guid>
+      <guid>https://mauriciovancine.github.io/pt/short-course/short-course-sdm-cbh-2019/</guid>
       <description>
-&lt;script src=&#34;https://mauriciovancine.github.io/pt/short-course/short-course-sdm-cbh/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/short-course/short-course-sdm-cbh-2019/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;A ampla disponibilidade de dados sobre a biodiversidade e variáveis ambientais, tem permitido a utilização de diversas análises biogeográficas e macroecológicas, dentre elas, os modelos de distribuição de espécies ou Species Distribution Modeling (SDMs). Esse minicurso tem como intuito oferecer uma introdução teórica e prática à técnica de SDMs, utilizando a linguagem R. Primeiramente serão apresentados os principais conceitos da teoria de nicho ecológico (Grinnell, Elton e Hutchinson) e da teoria de modelos (espaço geográfico (G), espaço ambiental (E) e diagrama Biótico-Abiótico-Movimentação (BAM)). Seguida à parte teórica, serão apresentados as principais bases de dados (ocorrências e variáveis ambientais), tipos de algoritmos (presença e ausência – GLM, GAM e Random Forest, apenas presença – BIOCLIM, Mahalanobis e Gower, e presença e background – Maxent e SVM), avaliação dos modelos (ROC, AUC e TSS), limites de corte (thresholds) e algumas abordagens de consenso de modelos (ensembles). A parte prática será focada na construção dos modelos através da linguagem R. Inicialmente será feito uma introdução à programação e manejo de dados espaciais na linguagem R, utilizando os pacotes &lt;em&gt;raster&lt;/em&gt; e &lt;em&gt;rgdal&lt;/em&gt;. Em seguida, será apresentado como obter dados de ocorrências e variáveis ambientais, através dos pacotes &lt;em&gt;spocc&lt;/em&gt; e &lt;em&gt;dismo&lt;/em&gt;. Uma vez adquiridos os dados, serão feitas análises preliminares dos mesmos, como seleção de ocorrências (um ponto por célula) e de variáveis (correlação, PCA, análise fatorial e VIF). Por fim, serão construídos modelos utilizando os algoritmos mencionados acima, além do cálculo das métricas de avaliação dos mesmos, utilizando os pacotes &lt;em&gt;dismo&lt;/em&gt;, &lt;em&gt;randomForest&lt;/em&gt; e &lt;em&gt;kernlab&lt;/em&gt;.&lt;/p&gt;

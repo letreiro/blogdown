@@ -14,11 +14,11 @@
     
     <item>
       <title>Introduction to Species Distribution Modeling using R Language: theory and practice</title>
-      <link>https://mauriciovancine.github.io/short-course/short-course-sdm-cbh/</link>
+      <link>https://mauriciovancine.github.io/short-course/short-course-sdm-cbh-2019/</link>
       <pubDate>Mon, 22 Jul 2019 08:00:00 +0000</pubDate>
-      <guid>https://mauriciovancine.github.io/short-course/short-course-sdm-cbh/</guid>
+      <guid>https://mauriciovancine.github.io/short-course/short-course-sdm-cbh-2019/</guid>
       <description>
-&lt;script src=&#34;https://mauriciovancine.github.io/short-course/short-course-sdm-cbh/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://mauriciovancine.github.io/short-course/short-course-sdm-cbh-2019/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;The wide availability of data on biodiversity and environmental variables, has allowed the use of several biogeographic and macroecological analyzes, among them, the species distribution models (MDE). This short course aims to offer a theoretical and practical introduction to the EAW technique, using the R language. First, the main concepts of ecological niche theory (Grinnell, Elton and Hutchinson) and model theory (geographic space (G) , environmental space (E) and Biotic-Abiotic-Movement diagram (BAM)). Following the theoretical part, the main databases (occurrences and environmental variables), types of algorithms (presence and absence - GLM, GAM and Random Forest, only presence - BIOCLIM, Mahalanobis and Gower, and presence and background - Maxent and SVM), model evaluation (ROC, AUC and TSS), thresholds and some model consensus approaches (ensembles). The practical part will be focused on building models using the R language. Initially, an introduction to the programming and handling of spatial data in the R language will be made, using the &lt;em&gt;raster&lt;/em&gt; and &lt;em&gt;rgdal&lt;/em&gt; packages. Then, it will be presented how to obtain data of occurrences and environmental variables, through &lt;em&gt;spocc&lt;/em&gt; and &lt;em&gt;dismo&lt;/em&gt; packages. Once the data is acquired, preliminary analyzes will be made, such as selection of occurrences (one point per cell) and variables (correlation, PCA, factor analysis and VIF). Finally, models will be built using the algorithms mentioned above, in addition to calculating the evaluation metrics, using the &lt;em&gt;dismo&lt;/em&gt;, &lt;em&gt;randomForest&lt;/em&gt; and &lt;em&gt;kernlab&lt;/em&gt; packages.&lt;/p&gt;
