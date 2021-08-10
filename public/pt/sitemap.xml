@@ -428,21 +428,6 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/short-course/</loc>
-    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/short-course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/short-course/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mauriciovancine.github.io/pt/tag/git/</loc>
     <lastmod>2021-03-17T09:00:00+00:00</lastmod>
     <xhtml:link
@@ -473,17 +458,17 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/short-course/short-course-git-github-rstudio-2021/</loc>
+    <loc>https://mauriciovancine.github.io/pt/workshop/workshop-git-github-rstudio-2021/</loc>
     <lastmod>2021-03-17T09:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/short-course/short-course-git-github-rstudio-2021/"
+                href="https://mauriciovancine.github.io/workshop/workshop-git-github-rstudio-2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/short-course/short-course-git-github-rstudio-2021/"
+                href="https://mauriciovancine.github.io/pt/workshop/workshop-git-github-rstudio-2021/"
                 />
   </url>
   
@@ -514,6 +499,21 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/category/short-course/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/workshop/</loc>
+    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/workshop/"
                 />
   </url>
   
@@ -1238,32 +1238,32 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-ecology-2019/</loc>
+    <loc>https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-ecology-2019/</loc>
     <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/short-course/short-course-r-unesp-ecology-2019/"
+                href="https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology-2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-ecology-2019/"
+                href="https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-ecology-2019/"
                 />
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-biology-2019/</loc>
+    <loc>https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-biology-2019/</loc>
     <lastmod>2019-10-23T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/short-course/short-course-r-unesp-biology-2019/"
+                href="https://mauriciovancine.github.io/workshop/workshop-r-unesp-biology-2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/short-course/short-course-r-unesp-biology-2019/"
+                href="https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-biology-2019/"
                 />
   </url>
   
@@ -1388,17 +1388,17 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/short-course/short-course-sdm-cbh-2019/</loc>
+    <loc>https://mauriciovancine.github.io/pt/workshop/workshop-sdm-cbh-2019/</loc>
     <lastmod>2019-07-22T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/short-course/short-course-sdm-cbh-2019/"
+                href="https://mauriciovancine.github.io/workshop/workshop-sdm-cbh-2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/short-course/short-course-sdm-cbh-2019/"
+                href="https://mauriciovancine.github.io/pt/workshop/workshop-sdm-cbh-2019/"
                 />
   </url>
   
