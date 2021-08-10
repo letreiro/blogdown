@@ -31,8 +31,8 @@
     url = "/publication"
     weight = 40
   [[pt.menu.main]]
-    name = "Cursos"
-    url = "/short-course"
+    name = "Workshops"
+    url = "/workshop"
     weight = 50
   [[pt.menu.main]]
     name = "Disciplinas"
