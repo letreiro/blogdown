@@ -1,0 +1,41 @@
+---
+title: "Introduction to R Language"
+subtitle: Maurício Humberto Vancine
+draft: false
+event: "XXXII Semana de Estudos da Ecologia"
+event_url: "http://www.rc.unesp.br/see/"
+location: Online
+summary: "Introduction to the R language carried out in XXXII Semana de Estudos da Ecologia"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2021-11-10T09:00:00Z"
+date_end: "2021-11-11T12:00:00Z"
+all_day: false
+publishdate: "2021-08-13"
+
+links:
+- icon: link
+  icon_pack: fas
+  name: event
+  url: "http://www.rc.unesp.br/see/"  
+- icon: github
+  icon_pack: fab
+  name: material
+  url: "https://github.com/mauriciovancine/workshop-r-introduction"
+
+categories:
+  - workshop
+tags:
+  - workshop
+  - r
+lastmod: r`Sys.Date()`
+featured: no
+image:
+  caption: "[Imagem by SEE](http://www.rc.unesp.br/see/)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+The workshop will introduce you to the fundamentals of the R language and RStudio IDE for manipulating and visualizing data through the tidyverse. tidyverse is a set of packages and functions that share the same framework to help users create efficient and ‘organized’ code. Packages are focused mainly in data organization (reading, filtering, organizing, selecting and summarizing) and viewing of data. The following topics will be addressed: (1) presentation, (2) functioning of the R language, (3) object structure and manipulation, (4) tidyverse and (5) data visualization. At the end of the short course, that participants acquire introductory knowledge of the functioning of language, as well as in manipulation and visualization of tabular data.

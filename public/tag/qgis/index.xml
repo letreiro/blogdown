@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qgis | Maurício Vancine</title>
+    <link>https://mauriciovancine.github.io/tag/qgis/</link>
+      <atom:link href="https://mauriciovancine.github.io/tag/qgis/index.xml" rel="self" type="application/rss+xml" />
+    <description>qgis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Maurício Vancine 2021</copyright><lastBuildDate>Fri, 08 Oct 2021 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>qgis</title>
+      <link>https://mauriciovancine.github.io/tag/qgis/</link>
+    </image>
+    
+    <item>
+      <title>Geoprocessing with QGIS</title>
+      <link>https://mauriciovancine.github.io/workshop/workshop-qgis-unesp-biology-2021/</link>
+      <pubDate>Fri, 08 Oct 2021 08:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/workshop/workshop-qgis-unesp-biology-2021/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/workshop/workshop-qgis-unesp-biology-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The workshop will offer some of the main theoretical-practical concepts for manipulating and visualizing geospatial data in QGIS. The following topics will be covered: (1) presentations, (2) general geoprocessing concepts, (3) QGIS interface and design, (4) vector data import, creation and editing, (5) data import, creation and editing matrix and, (6) composition of maps. After completing the short course, students are expected to acquire general concepts of structure, manipulation and visualization of geospatial data, as well as basic skills for producing simple maps.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

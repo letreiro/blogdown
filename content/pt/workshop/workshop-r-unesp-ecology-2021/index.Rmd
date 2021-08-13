@@ -1,0 +1,41 @@
+---
+title: "Introdução à linguagem R para manipulação e visualização de dados"
+subtitle: Maurício Humberto Vancine
+draft: false
+event: "XXXII Semana de Estudos da Ecologia"
+event_url: "http://www.rc.unesp.br/see/"
+location: Online
+summary: "Introdução à linguagem R realizado na XXXII Semana de Estudos da Ecologia "
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2021-11-10T09:00:00Z"
+date_end: "2021-11-11T12:00:00Z"
+all_day: false
+publishdate: "2021-08-13"
+
+links:
+- icon: link
+  icon_pack: fas
+  name: event
+  url: "http://www.rc.unesp.br/see/"  
+- icon: github
+  icon_pack: fab
+  name: material
+  url: "https://github.com/mauriciovancine/workshop-r-introduction"
+
+categories:
+  - workshop
+tags:
+  - workshop
+  - r
+lastmod: r`Sys.Date()`
+featured: no
+image:
+  caption: "[Imagem by SEE](http://www.rc.unesp.br/see/)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+O minicurso apresentará os fundamentos da linguagem R e IDE RStudio para a manipulação e visualização de dados através do *tidyverse*. O *tidyverse* é um conjunto de pacotes e funções que compartilham uma mesma estrutura visando ajudar os usuários a criar um código eficiente e 'organizado'. Os pacotes são focados principalmente na organização de dados (leitura, filtragem, organização, seleção e resumo) e visualização de dados. Serão abordados os seguintes temas: (1) apresentação, (2) funcionamento da linguagem R, (3) estrutura e manipulação de objetos, (4) tidyverse e (5) visualização de dados. Ao final do minicurso espera-se que os participantes adquiram conhecimentos introdutórios do funcionamento da linguagem, assim como na manipulação e visualização de dados tabulares.

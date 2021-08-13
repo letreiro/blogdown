@@ -1,0 +1,41 @@
+---
+title: "Geoprocessing with QGIS"
+subtitle: Maurício Humberto Vancine
+draft: false
+event: "32ª Semana de Estudos da Biologia"
+event_url: https://www.facebook.com/SEBioRC/
+location: Online
+summary: "Introduction to geoprocessing with QGIS carried out in 32ª Semana de Estudos da Biologia"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2021-10-08T08:00:00Z"
+date_end: "2021-10-08T11:00:00Z"
+all_day: false
+publishdate: "2021-08-13"
+
+links:
+- icon: link
+  icon_pack: fas
+  name: event
+  url: "https://www.facebook.com/SEBioRC/"  
+- icon: github
+  icon_pack: fab
+  name: material
+  url: "https://github.com/mauriciovancine/workshop-qgis"
+
+categories:
+  - workshop
+tags:
+  - workshop
+  - qgis
+lastmod: r`Sys.Date()`
+featured: no
+image:
+  caption: "[Imagem by SEB](https://www.facebook.com/SEBioRC/)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+The workshop will offer some of the main theoretical-practical concepts for manipulating and visualizing geospatial data in QGIS. The following topics will be covered: (1) presentations, (2) general geoprocessing concepts, (3) QGIS interface and design, (4) vector data import, creation and editing, (5) data import, creation and editing matrix and, (6) composition of maps. After completing the short course, students are expected to acquire general concepts of structure, manipulation and visualization of geospatial data, as well as basic skills for producing simple maps.

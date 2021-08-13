@@ -5,12 +5,51 @@
     <link>https://mauriciovancine.github.io/pt/</link>
       <atom:link href="https://mauriciovancine.github.io/pt/index.xml" rel="self" type="application/rss+xml" />
     <description>Maurício Vancine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Maurício Vancine 2021</copyright><lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Maurício Vancine 2021</copyright><lastBuildDate>Wed, 10 Nov 2021 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Maurício Vancine</title>
       <link>https://mauriciovancine.github.io/pt/</link>
     </image>
+    
+    <item>
+      <title>Introdução à linguagem R para manipulação e visualização de dados</title>
+      <link>https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-ecology-2021/</link>
+      <pubDate>Wed, 10 Nov 2021 09:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-ecology-2021/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-ecology-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;O minicurso apresentará os fundamentos da linguagem R e IDE RStudio para a manipulação e visualização de dados através do &lt;em&gt;tidyverse&lt;/em&gt;. O &lt;em&gt;tidyverse&lt;/em&gt; é um conjunto de pacotes e funções que compartilham uma mesma estrutura visando ajudar os usuários a criar um código eficiente e ‘organizado’. Os pacotes são focados principalmente na organização de dados (leitura, filtragem, organização, seleção e resumo) e visualização de dados. Serão abordados os seguintes temas: (1) apresentação, (2) funcionamento da linguagem R, (3) estrutura e manipulação de objetos, (4) tidyverse e (5) visualização de dados. Ao final do minicurso espera-se que os participantes adquiram conhecimentos introdutórios do funcionamento da linguagem, assim como na manipulação e visualização de dados tabulares.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao geoprocessamento com QGIS</title>
+      <link>https://mauriciovancine.github.io/pt/workshop/workshop-qgis-unesp-biology-2021/</link>
+      <pubDate>Fri, 08 Oct 2021 08:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/workshop/workshop-qgis-unesp-biology-2021/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/workshop/workshop-qgis-unesp-biology-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;O minicurso oferecerá alguns dos principais conceitos teórico-práticos para manipulação e visualização de dados geoespaciais no QGIS. Serão abordados os seguintes tópicos: (1) apresentações, (2) conceitos gerais de geoprocessamento, (3) interface e projeto do QGIS, (4) importação, criação e edição de dados vetoriais, (5) importação, criação e edição de dados matriciais e, (6) composição de mapas. Após a realização do minicurso espera-se que os alunos e alunas adquiram conceitos gerais da estrutura, manipulação e visualização de dados geoespaciais, assim como habilidades básicas para produção de mapas simples.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introdução à modelagem de distribuição de espécies usando a linguagem R: teoria e prática</title>
+      <link>https://mauriciovancine.github.io/pt/workshop/workshop-sdm-moco-2021/</link>
+      <pubDate>Sat, 25 Sep 2021 09:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/workshop/workshop-sdm-moco-2021/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/workshop/workshop-sdm-moco-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;A ampla disponibilidade de dados sobre a biodiversidade e variáveis ambientais propiciam o uso de análises espaciais, dentre elas, os Modelos de Distribuição de Espécies (ou do inglês &lt;em&gt;Species Distribution Modeling&lt;/em&gt; — SDM). Nessa oficina, oferecerei uma introdução teórica e prática à técnica de SDM utilizando a linguagem R. Primeiramente, apresentarei brevemente os principais conceitos da teoria de nicho ecológico (Grinnell, Elton e Hutchinson) e da teoria de MDEs (espaço geográfico (G), espaço ambiental (E) e diagrama Biótico-Abiótico-Movimentação (BAM)). Seguida à parte teórica, apresentarei as principais bases de dados (ocorrências e variáveis ambientais), tipos de algoritmos (BIOCLIM, Mahalanobis, Gower, GLM, GAM, Random Forest, SVM e MaxEnt), avaliação dos modelos (ROC, AUC e TSS), limites de corte (&lt;em&gt;thresholds&lt;/em&gt;) e consenso de modelos (&lt;em&gt;ensemble&lt;/em&gt;). A parte prática será focada na construção dos modelos através da linguagem R, onde abordarei: (1) introdução à linguagem R, (2) obtenção e seleção de dados de ocorrências e variáveis ambientais, (3) ajuste e predição dos modelos, (4) métricas de avaliação, (5) consenso dos modelos (ensemble) e (6) composição dos mapas.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Forest cover and connectivity have pervasive effects on the maintenance of evolutionary distinct interactions in seed dispersal networks</title>
@@ -302,19 +341,6 @@ raster::writeRaster(x = mun_raster,
       <guid>https://mauriciovancine.github.io/pt/workshop/workshop-git-github-rstudio-2021/</guid>
       <description>
 &lt;script src=&#34;https://mauriciovancine.github.io/pt/workshop/workshop-git-github-rstudio-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;p&gt;Apresentar os principais conceitos sobre o controle de versão usando git, GitHub e RStudio.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introdução ao controle de versão com git, GitHub e RStudio</title>
-      <link>https://mauriciovancine.github.io/pt/workshop/workshop-qgis-2021/</link>
-      <pubDate>Wed, 17 Mar 2021 09:00:00 +0000</pubDate>
-      <guid>https://mauriciovancine.github.io/pt/workshop/workshop-qgis-2021/</guid>
-      <description>
-&lt;script src=&#34;https://mauriciovancine.github.io/pt/workshop/workshop-qgis-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Apresentar os principais conceitos sobre o controle de versão usando git, GitHub e RStudio.&lt;/p&gt;

@@ -4,7 +4,7 @@ subtitle: Maurício Humberto Vancine
 draft: false
 event: ""
 event_url: 
-location: Recife, PE, Brazil (remote)
+location: Online
 summary: "To present the main concepts about version control using git, GitHub and RStudio"
 
 # Talk start and end times.
@@ -26,9 +26,9 @@ links:
   url: "https://github.com/mauriciovancine/workshop-git-github-rstudio"
 
 categories:
-  - short course
+  - workshop
 tags:
-  - short course
+  - workshop
   - git
   - github
 lastmod: r`Sys.Date()`

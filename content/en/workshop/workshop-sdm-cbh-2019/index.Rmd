@@ -25,12 +25,12 @@ links:
   url: "https://github.com/mauriciovancine/r-minicurso-sdm-9-cbh"
 
 categories:
-  - short course
+  - workshop
 tags:
-  - short course
+  - workshop
   - species distribution modelling
   - r
-lastmod: "2018-07-30T02:20:01-07:00"
+lastmod: r`Sys.Date()`
 featured: no
 image:
   caption: "[Imagem by Galoá](https://9cbh.galoa.com.br/)"

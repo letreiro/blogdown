@@ -3,6 +3,186 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mauriciovancine.github.io/categories/</loc>
+    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology-2021/</loc>
+    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/workshop/workshop-r-unesp-ecology-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology-2021/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/</loc>
+    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tag/r/</loc>
+    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/r/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tags/</loc>
+    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tag/workshop/</loc>
+    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/workshop/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/category/workshop/</loc>
+    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/category/workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/category/workshop/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/workshop/</loc>
+    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/workshop/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/workshop/workshop-qgis-unesp-biology-2021/</loc>
+    <lastmod>2021-10-08T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/workshop/workshop-qgis-unesp-biology-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/workshop/workshop-qgis-unesp-biology-2021/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tag/qgis/</loc>
+    <lastmod>2021-10-08T08:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/qgis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/qgis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/workshop/workshop-sdm-moco-2021/</loc>
+    <lastmod>2021-09-25T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/workshop/workshop-sdm-moco-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/workshop/workshop-sdm-moco-2021/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tag/species-distribution-modeling/</loc>
+    <lastmod>2021-09-25T09:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/species-distribution-modeling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/species-distribution-modeling/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/publication-type/2/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -89,21 +269,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mauriciovancine.github.io/author/mauricio-humberto-vancine/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/"
                 />
   </url>
   
@@ -318,51 +483,6 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/tag/species-distribution-modeling/</loc>
-    <lastmod>2021-04-02T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/tag/species-distribution-modeling/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/tag/species-distribution-modeling/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/tags/</loc>
-    <lastmod>2021-04-02T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/categories/</loc>
-    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mauriciovancine.github.io/tag/git/</loc>
     <lastmod>2021-03-17T09:00:00+00:00</lastmod>
     <xhtml:link
@@ -404,51 +524,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mauriciovancine.github.io/workshop/workshop-git-github-rstudio-2021/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/tag/short-course/</loc>
-    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/tag/short-course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/tag/short-course/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/category/short-course/</loc>
-    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/category/short-course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/category/short-course/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/workshop/</loc>
-    <lastmod>2021-03-17T09:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/workshop/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/workshop/"
                 />
   </url>
   
@@ -719,21 +794,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mauriciovancine.github.io/courses/course-geospatial-data-r/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/tag/r/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/tag/r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/tag/r/"
                 />
   </url>
   
@@ -1159,7 +1219,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology-2019/</loc>
-    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-06T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -1173,8 +1233,13 @@
   </url>
   
   <url>
+    <loc>https://mauriciovancine.github.io/tag/worshop/</loc>
+    <lastmod>2019-11-06T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/workshop/workshop-r-unesp-biology-2019/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-23T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -1309,7 +1374,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/workshop/workshop-sdm-cbh-2019/</loc>
-    <lastmod>2018-07-30T02:20:01-07:00</lastmod>
+    <lastmod>2019-07-22T08:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -1324,7 +1389,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/tag/species-distribution-modelling/</loc>
-    <lastmod>2018-07-30T02:20:01-07:00</lastmod>
+    <lastmod>2019-07-22T08:00:00+00:00</lastmod>
   </url>
   
   <url>

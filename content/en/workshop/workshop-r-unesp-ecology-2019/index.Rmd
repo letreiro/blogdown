@@ -25,11 +25,11 @@ links:
   url: "https://github.com/mauriciovancine/minicurso-r-see-2019"
 
 categories:
-  - short course
+  - workshop
 tags:
-  - short course
+  - worshop
   - r
-lastmod: "2019-11-05"
+lastmod: r`Sys.Date()`
 featured: no
 image:
   caption: "[Imagem by SEE](http://www.rc.unesp.br/see/)"

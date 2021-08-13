@@ -1,0 +1,42 @@
+---
+title: "Introduction to Species Distribution Modeling using R Language: theory and practice"
+subtitle: Maurício Humberto Vancine
+draft: false
+event: "Mastozóologos Organizados em uma Conferência Online (MOCÓ)"
+event_url: https://moco2021.com.br/
+location: Online
+summary: "Introduction to Species Distribution Models (SDMs) carried out in Mastozóologos Organizados em uma Conferência Online (MOCÓ)"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2021-09-25T09:00:00Z"
+date_end: "2021-09-26T12:00:00Z"
+all_day: false
+publishdate: "2021-08-13"
+
+links:
+- icon: link
+  icon_pack: fas
+  name: event
+  url: "https://moco2021.com.br/"  
+- icon: github
+  icon_pack: fab
+  name: material
+  url: "https://github.com/mauriciovancine/workshop-r-sdm"
+
+categories:
+  - workshop
+tags:
+  - workshop
+  - species distribution modeling
+  - r
+lastmod: r`Sys.Date()`
+featured: no
+image:
+  caption: "[Imagem by MOCÓ](https://moco2021.com.br/)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+The wide availability of data on biodiversity and environmental variables favor the use of spatial analysis, including the Species Distribution Modeling (SDM). In this workshop, I will offer a theoretical and practical introduction to the SDM technique using the R language. First, I will briefly present the main concepts of ecological niche theory (Grinnell, Elton and Hutchinson) and DEM theory (geographical space (G), space environmental (E) and Biotic-Abiotic-Movement diagram (BAM)). Following the theoretical part, I will present the main databases (occurrences and environmental variables), types of algorithms (BIOCLIM, Mahalanobis, Gower, GLM, GAM, Random Forest, SVM and MaxEnt), evaluation of models (ROC, AUC and TSS) , cut-off limits (thresholds) and model consensus (ensembles). The practical part will focus on the construction of models using the R language, where I will address: (1) introduction to the R language, (2) obtaining and selecting data on occurrences and environmental variables, (3) adjusting and predicting the models, (4) evaluation metrics, (5) model consensus (ensembles) and (6) map composition.

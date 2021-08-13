@@ -1,0 +1,42 @@
+---
+title: "Introdução à modelagem de distribuição de espécies usando a linguagem R: teoria e prática"
+subtitle: Maurício Humberto Vancine
+draft: false
+event: "Mastozóologos Organizados em uma Conferência Online (MOCÓ)"
+event_url: https://moco2021.com.br/
+location: Online
+summary: "Introdução à Modelos Distribuição de Espécies (SDMs) realizado no Mastozóologos Organizados em uma Conferência Online (MOCÓ)"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2021-09-25T09:00:00Z"
+date_end: "2021-09-26T12:00:00Z"
+all_day: false
+publishdate: "2021-08-13"
+
+links:
+- icon: link
+  icon_pack: fas
+  name: event
+  url: "https://moco2021.com.br/"  
+- icon: github
+  icon_pack: fab
+  name: material
+  url: "https://github.com/mauriciovancine/workshop-r-sdm"
+
+categories:
+  - workshop
+tags:
+  - workshop
+  - species distribution modeling
+  - r
+lastmod: r`Sys.Date()`
+featured: no
+image:
+  caption: "[Imagem by MOCÓ](https://moco2021.com.br/)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+A ampla disponibilidade de dados sobre a biodiversidade e variáveis ambientais propiciam o uso de análises espaciais, dentre elas, os Modelos de Distribuição de Espécies (ou do inglês *Species Distribution Modeling* — SDM). Nessa oficina, oferecerei uma introdução teórica e prática à técnica de SDM utilizando a linguagem R. Primeiramente, apresentarei brevemente os principais conceitos da teoria de nicho ecológico (Grinnell, Elton e Hutchinson) e da teoria de MDEs (espaço geográfico (G), espaço ambiental (E) e diagrama Biótico-Abiótico-Movimentação (BAM)). Seguida à parte teórica, apresentarei as principais bases de dados (ocorrências e variáveis ambientais), tipos de algoritmos (BIOCLIM, Mahalanobis, Gower, GLM, GAM, Random Forest, SVM e MaxEnt), avaliação dos modelos (ROC, AUC e TSS), limites de corte (*thresholds*) e consenso de modelos (*ensemble*). A parte prática será focada na construção dos modelos através da linguagem R, onde abordarei: (1) introdução à linguagem R, (2) obtenção e seleção de dados de ocorrências e variáveis ambientais, (3) ajuste e predição dos modelos, (4) métricas de avaliação, (5) consenso dos modelos (ensemble) e (6) composição dos mapas.

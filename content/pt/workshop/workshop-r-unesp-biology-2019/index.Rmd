@@ -25,9 +25,9 @@ links:
   url: "https://github.com/mauriciovancine/minicurso-r-sebio-2019"
 
 categories:
-  - short course
+  - workshop
 tags:
-  - short course
+  - workshop
   - r
 lastmod: r`Sys.Date()`
 featured: no

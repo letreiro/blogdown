@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop | Maurício Vancine</title>
+    <link>https://mauriciovancine.github.io/category/workshop/</link>
+      <atom:link href="https://mauriciovancine.github.io/category/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>workshop</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Maurício Vancine 2021</copyright><lastBuildDate>Wed, 10 Nov 2021 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>workshop</title>
+      <link>https://mauriciovancine.github.io/category/workshop/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to R Language</title>
+      <link>https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology-2021/</link>
+      <pubDate>Wed, 10 Nov 2021 09:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology-2021/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The workshop will introduce you to the fundamentals of the R language and RStudio IDE for manipulating and visualizing data through the tidyverse. tidyverse is a set of packages and functions that share the same framework to help users create efficient and ‘organized’ code. Packages are focused mainly in data organization (reading, filtering, organizing, selecting and summarizing) and viewing of data. The following topics will be addressed: (1) presentation, (2) functioning of the R language, (3) object structure and manipulation, (4) tidyverse and (5) data visualization. At the end of the short course, that participants acquire introductory knowledge of the functioning of language, as well as in manipulation and visualization of tabular data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geoprocessing with QGIS</title>
+      <link>https://mauriciovancine.github.io/workshop/workshop-qgis-unesp-biology-2021/</link>
+      <pubDate>Fri, 08 Oct 2021 08:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/workshop/workshop-qgis-unesp-biology-2021/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/workshop/workshop-qgis-unesp-biology-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The workshop will offer some of the main theoretical-practical concepts for manipulating and visualizing geospatial data in QGIS. The following topics will be covered: (1) presentations, (2) general geoprocessing concepts, (3) QGIS interface and design, (4) vector data import, creation and editing, (5) data import, creation and editing matrix and, (6) composition of maps. After completing the short course, students are expected to acquire general concepts of structure, manipulation and visualization of geospatial data, as well as basic skills for producing simple maps.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Species Distribution Modeling using R Language: theory and practice</title>
+      <link>https://mauriciovancine.github.io/workshop/workshop-sdm-moco-2021/</link>
+      <pubDate>Sat, 25 Sep 2021 09:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/workshop/workshop-sdm-moco-2021/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/workshop/workshop-sdm-moco-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The wide availability of data on biodiversity and environmental variables favor the use of spatial analysis, including the Species Distribution Modeling (SDM). In this workshop, I will offer a theoretical and practical introduction to the SDM technique using the R language. First, I will briefly present the main concepts of ecological niche theory (Grinnell, Elton and Hutchinson) and DEM theory (geographical space (G), space environmental (E) and Biotic-Abiotic-Movement diagram (BAM)). Following the theoretical part, I will present the main databases (occurrences and environmental variables), types of algorithms (BIOCLIM, Mahalanobis, Gower, GLM, GAM, Random Forest, SVM and MaxEnt), evaluation of models (ROC, AUC and TSS) , cut-off limits (thresholds) and model consensus (ensembles). The practical part will focus on the construction of models using the R language, where I will address: (1) introduction to the R language, (2) obtaining and selecting data on occurrences and environmental variables, (3) adjusting and predicting the models, (4) evaluation metrics, (5) model consensus (ensembles) and (6) map composition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to version control with git, GitHub and RStudio</title>
+      <link>https://mauriciovancine.github.io/workshop/workshop-git-github-rstudio-2021/</link>
+      <pubDate>Wed, 17 Mar 2021 09:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/workshop/workshop-git-github-rstudio-2021/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/workshop/workshop-git-github-rstudio-2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;To present the main concepts about version control using git, GitHub and RStudio.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to R Language</title>
+      <link>https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology-2019/</link>
+      <pubDate>Wed, 06 Nov 2019 08:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology-2019/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/workshop/workshop-r-unesp-ecology-2019/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The R language has stood out in recent years (since 2000), as the main tool for data management, visualization and analysis, mainly in the area of Ecology, Psychology, Economics, and more recently, in Data Science. In this course, four introductory themes of this language will be addressed: (i) introduction and operation of the R language and RStudio software, (ii) data structure and manipulation, (iii) introduction to tidyverse, and (iv) data visualization. The workload will be approximately 08 hours, where the theoretical-practical part will be focused, interspersed with exercises to fix the content. At the end of the course, participants are expected to have a general understanding of language functioning and potential applications within the area of ecological data analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to R Language</title>
+      <link>https://mauriciovancine.github.io/workshop/workshop-r-unesp-biology-2019/</link>
+      <pubDate>Wed, 23 Oct 2019 14:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/workshop/workshop-r-unesp-biology-2019/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/workshop/workshop-r-unesp-biology-2019/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The R language has stood out in recent years (since 2000), as the main tool for data management, visualization and analysis, mainly in the area of Ecology, Psychology, Economics, and more recently, in Data Science. In this course, four introductory themes of this language will be addressed: (i) introduction and operation of the R language and RStudio software, (ii) data structure and manipulation, (iii) introduction to tidyverse, and (iv) data visualization. The workload will be approximately 08 hours, where the theoretical-practical part will be focused, interspersed with exercises to fix the content. At the end of the course, participants are expected to have a general understanding of language functioning and potential applications within the area of ecological data analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Species Distribution Modeling using R Language: theory and practice</title>
+      <link>https://mauriciovancine.github.io/workshop/workshop-sdm-cbh-2019/</link>
+      <pubDate>Mon, 22 Jul 2019 08:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/workshop/workshop-sdm-cbh-2019/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/workshop/workshop-sdm-cbh-2019/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The wide availability of data on biodiversity and environmental variables, has allowed the use of several biogeographic and macroecological analyzes, among them, the species distribution models (MDE). This short course aims to offer a theoretical and practical introduction to the EAW technique, using the R language. First, the main concepts of ecological niche theory (Grinnell, Elton and Hutchinson) and model theory (geographic space (G) , environmental space (E) and Biotic-Abiotic-Movement diagram (BAM)). Following the theoretical part, the main databases (occurrences and environmental variables), types of algorithms (presence and absence - GLM, GAM and Random Forest, only presence - BIOCLIM, Mahalanobis and Gower, and presence and background - Maxent and SVM), model evaluation (ROC, AUC and TSS), thresholds and some model consensus approaches (ensembles). The practical part will be focused on building models using the R language. Initially, an introduction to the programming and handling of spatial data in the R language will be made, using the &lt;em&gt;raster&lt;/em&gt; and &lt;em&gt;rgdal&lt;/em&gt; packages. Then, it will be presented how to obtain data of occurrences and environmental variables, through &lt;em&gt;spocc&lt;/em&gt; and &lt;em&gt;dismo&lt;/em&gt; packages. Once the data is acquired, preliminary analyzes will be made, such as selection of occurrences (one point per cell) and variables (correlation, PCA, factor analysis and VIF). Finally, models will be built using the algorithms mentioned above, in addition to calculating the evaluation metrics, using the &lt;em&gt;dismo&lt;/em&gt;, &lt;em&gt;randomForest&lt;/em&gt; and &lt;em&gt;kernlab&lt;/em&gt; packages.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
