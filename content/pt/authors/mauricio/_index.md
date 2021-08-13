@@ -39,6 +39,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1391845/mauricio-vancine
+- icon: zotero
+  icon_pack: ai
+  link: https://www.zotero.org/mauriciovancine
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=i-2xZBQAAAAJ
